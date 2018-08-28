@@ -1,0 +1,1039 @@
+﻿Fisheye top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total	FX Qty Total		
+F	6.2/5.6 Fish-eye 220° NKJ	LMIJ	5-	prototype, mirror-up lens	620001	620004 - 620005		5	-	Fisheye	126942	46976601		
+F	6/5.6 Fisheye 220° NKJ	LMIJ	5-		656001	656005 - 656100		100	Feb 1970 - 1971	Fisheye				
+F	6/5.6 Fisheye 220° Nikon	LMIJ	5-		660001	660003 - 660109	660109	109	1971 - Mar 1978	Fisheye				
+F	6.2/5.6 Fisheye 230°-SAP	LMIJ	5-	Equi Solid Angle Projection		1014 - 1015		2	-	Fisheye				
+F	6.3/2.8 Fisheye Auto	LMIJ	5+	prototype	261001	261001		1	-	Fisheye				
+F	6/2.8 Fisheye Auto Nikon	LMIJ	5+	Ai kit 56,57,58	628001	628003 - 628024	628029	29	Mar 1972 - 1977	Fisheye				
+Ai	6/2.8 Fisheye Auto Nikon	LMIJ	5+		628030	628035 - 628147		118	1977 -	Fisheye				
+Ai	6/2.8 Fisheye Auto Nikon	LMIJ	5+	no serial from 6281xx - 6285xx?		628556		1	- Sep 1981	Fisheye				
+Ai-S	6/2.8 Fisheye	MIJ	5+		629001	629004		4	Mar 1982 -	Fisheye				
+Ai-S	6/2.8 Fisheye	MIJ	5+	no serial from 6290xx - 629400?		629400 - 629436		37	-1998	Fisheye				
+F	8/8 Fish-eye NKJ	PAT PEND	3-	prototype, mirror-up lens	880001	880002 - 880003		3	-	Fisheye				
+F	8/8 Fish-eye NKJ	PAT PEND	3-	filter: L38, Y48, Y51/2, O56/7, R60, X0	88011	88019 - 88108^			Jul 1962 -	Fisheye				
+F	8/8 Fish-eye NKJ	-	3-	filter: L1A, Y48, Y51/2, O57, R60, X0		88135 - 89388	89388	1378	- Apr 1965	Fisheye				
+F	7.5/5.6 Fish-eye-NKJ	-	3-	filter: L1A, Y48, Y52/3, O56/7, R60, X0, mirror-up	750011	750018 - 750396			Jan 1966 -	Fisheye				
+F	7.5/5.6 Fish-eye-NKJ	LMIJ	5-	filter: L1A, Y48, Y52/3, O56/7, R60, X0		750348 - 751123			-	Fisheye				
+F	7.5/5.6 Fisheye NKJ	LMIJ	5-	filter: L1A, Y48, Y52, O56, R60, X0		751129 - 752193	752222	2212	- Feb 1970	Fisheye				
+F	8/2.8 Fisheye Auto NKJ	LMIJ	5-	prototype	230001	230002		2	1970 -	Fisheye				
+F	8/2.8 Fisheye Auto NKJ	LMIJ	5-	Ai kit 56,57,58	230011	230031 - 231285		1275	Feb 1970 - 1971	Fisheye				
+F	8/2.8 Fisheye Auto Nikon	LMIJ	5+		240001?	240021 - 240976			1971 - 1977	Fisheye				
+Ai	8/2.8 Fisheye Auto Nikon	LMIJ	5+	thick rear protector, L1A, Y48, Y52, O56, R60		240709 - 241132			1977 -	Fisheye				
+Ai	8/2.8 Fisheye Auto Nikon	MIJ	5+	thin rear protector, L1BC, Y48, Y52, O56, R60		241254 - 242491		2491	- Feb 1982	Fisheye				
+Ai-S	8/2.8 Fisheye	MIJ	5+	dash focus index	243001	243005 - 247482		4482	Dec 1981 - 1998?	Fisheye				
+F	10/5.6 Fisheye 180°-OP NKJ	LMIJ	5-	prototype	100001	100001		1	1968 -	Fisheye				
+F	10/5.6 Fisheye 180°-OP NKJ	LMIJ	5-	first aspheric SLR lens, mirror-up lens	180011	180037 - 180560		550	Jul 1968 - 1972	Fisheye				
+F	10/5.6 Fisheye 180°-OP Nikon	LMIJ	5-		190011	190118 - 190164	190168	158	1972 - Aug 1976	Fisheye				
+F	16/3.5 Fisheye Auto	LMIJ	5+	multicoated, Ai kit 59,60,61	272281	272286 - 276977		4697	Feb 1973 - Mar 1976	Fisheye				
+K,Ai	16/3.5 Fisheye	LMIJ	5+	Ai kit 59,60,61	280001	280001 - 281597		1597	Dec 1975 - 1977	Fisheye				
+Ai	16/3.5 Fisheye	LMIJ	5+	fits F4	290001	290010 - 291566		1566	1977 - Mar 1979	Fisheye				
+Ai	16/2.8 Fisheye	MIJ	?	prototype, 2 row grip, data facing forwards		104822 - 104826		5	1979 -	Fisheye				
+Ai	16/2.8 Fisheye	MIJ	3+	3 row focus grip, MIJ	178051	178072 - 182921		4871	Jul 1979 - Feb 1982	Fisheye				
+Ai-S	16/2.8 Fisheye	MIJ	3+	2 row focus grip	185001	185039 - 208827		23827	Dec 1981 - 1998	Fisheye				
+AF	16/2.8 D Fisheye	Japan	3+	CRC added to Ai optics	300001	300486 - 319155		19155	Sep 1993 -	Fisheye				
+AF	16/2.8 D Fisheye	Japan	3+		400001	401372 - 412788		12788	-2005	Fisheye				
+AF	16/2.8 D Fisheye	Japan	3+	2006 serial no	600001	601191 - 636855	>	36855	2006 - >	Fisheye				
+AF-S	8-15/3.5-4.5 E IF-ED	Thailand	4+		200001	203027 - 208623†	>	8623	May 2017 - >	Fisheye				
+														
+13-18mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+K,Ai	13/5.6 HD·C	LMIJ	5+	prototype?	173091?	173091 - 173092		2	1973? -	13-18	65153			
+K,Ai	13/5.6	LMIJ	5+	widest SLR lens in 1975, Ai kit 10,11	175021	175023 - 175056		36	Dec 1975 - Jun 1977	13-18				
+Ai	13/5.6	LMIJ	5+		175501	175506 - 175515		15	Jun 1977 - Mar 1982	13-18				
+Ai-S	13/5.6	MIJ	5+		175901	175905 - 176202		302	Mar 1982 - 1998	13-18				
+AF	14/2.8 D ED	Japan	4+		200001	200111 - 220112	>	20112	Jul 2000 - >	13-18				
+F	15/5.6 PD Auto	LMIJ	5+	prototype		-		-	1971? -	13-18				
+F	15/5.6 QD Auto	LMIJ	5+	prototype	320001	320002		2	1973 -	13-18				
+C	15/5.6 QD·C Auto	LMIJ	5+	Ai kit 15,16,17, widest lens in 1973	321001	321130 - 322412		1412	Jun 1973 -	13-18				
+C	15/5.6 QD·C Auto	LMIJ	5+		330001	330019 - 330978		978	- Aug 1976	13-18				
+K,Ai	15/5.6	LMIJ	5+	Ai kit 12,13,14	340001	340001 - 340565		565	Jul 1976 -	13-18				
+Ai	15/5.6	LMIJ	5+		350001	350014 - 350688		688	- Jul 1978	13-18				
+Ai	15/3.5	MIJ	5+	DOF on black	177051	177094 - 178926		1876	Aug 1978 - Dec 1981	13-18				
+Ai-S	15/3.5	MIJ	5+	DOF on chrome	180001	180020 - 188662		8662	Dec 1981 - Dec 2005	13-18				
+K	4月18日	LMIJ	5+	prototype	173101	173102		2	1974 -	13-18				
+K,Ai	4月18日	LMIJ	5+	Ai kit 18	173111	173111 - 178221		5111	Nov 1974 - 1977	13-18				
+Ai	4月18日	LMIJ	5+	name inside filter, thick rear protector	190001	190030 - 190667			Jun 1977 -	13-18				
+Ai	4月18日	LMIJ	3+	name outside filter, thin rear protector		190836 - 191165			-	13-18				
+Ai	4月18日	MIJ	3+			191134 - 193859		3859	- Mar 1982	13-18				
+Ai-S	18/3.5	MIJ	3+		180051	180281 - 193830		13780	Dec 1981 - Dec 2005	13-18				
+AF	18/2.8 D	Japan	3+	first molded glass aspheric Nikkor	200001	200223 - 205649		5649	Apr 1994 - 1999	13-18				
+AF	18/2.8 D	Japan	3+		400001	400198 - 402102		2102	2000 - 2006	13-18				
+														
+20mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	2.10/4 O NKJ	-	0	Prototype, mirror-up lens	220101	220101 - 220102		2	-		507989			
+F	2.10/4 O NKJ	-	0	large 360° rear collar	220111	220116 - 220301			Oct 1959 -	20				
+F	2.10/4 O NKJ	LMIJ PAT PEND	0			220347 - 220511			-	20				
+F	2.10/4 O NKJ	LMIJ PAT PEND	0	modified rear, some with dot 221542· to 735·		220602 - 221943			-	20				
+F	2.10/4 O NKJ	LMIJ	0			221946 - 223906		3796	-	20				
+F	2.10/4 O NKJ	LMIJ	0	new mount fits Nikkormat	225001	225015 - 227154		2154	- Sep 1967	20				
+F	20/3.5 UD NKJ	LMIJ	5-	prototype	421231	421232		2	-	20				
+F	20/3.5 UD NKJ	LMIJ	5-	Ai kit 19	421241	421251 - 423044		1804	Nov 1967 -	20				
+F	20/3.5 UD NKJ	LMIJ	5-	Ai kit 20	432211	432269 - 450627		18417	1968 - 1971	20				
+F	20/3.5 UD Nikon	LMIJ	5-		460001	460073 - 480416^	480633	20633	1971 - Apr 1974	20				
+K,Ai	4月20日	LMIJ	5+	Ai kit 21, very compact	103001	103001 - 125156		22156	Aug 1974 - 1977	20				
+Ai	4月20日	LMIJ	5+		130001	130087 - 140763		10763	1977 - Jan 1978	20				
+K	20/2.8	LMIJ	5+	prototype 20/2.8, similar to Ai 20/3.5		104301		1	1977 -	20				
+Ai	20/3.5	MIJ	5+		176121	176218 - 178114			Dec 1977 -	20				
+Ai	20/3.5	MIJ	3+			178171 - 204518		28398	- Dec 1981	20				
+Ai-S	20/3.5	MIJ	3+	wider chrome ring	210001	210081^ - 238623	238647	28647	Oct 1981 - Sep 1984	20				
+Ai-S	20/2.8	MIJ	3+	62mm filter, CRC, SIC coating from 257xxx	200001	200004 - 266369		66369	Oct 1984 - 2005	20				
+Ai-S	20/2.8	MIJ	3+	2006 serial no	300001	300009 - 304864	>	4864	2006 - >	20				
+AF	20/2.8	Japan	3+		200001	200508 - 269471		69471	Feb 1989 - Apr 1994	20				
+AF	20/2.8 D	Japan	3+		300001	300117 - 423068		123068	Mar 1994 - 2005	20				
+AF	20/2.8 D	Japan	3+	2006 serial no	500001	500120 - 5525xx^	>	52500	2006 - >	20				
+AF-S	20/1.8 G ED	China	4+		200001	201757 - 254944^	>	54944	Sep 2014 -	20				
+														
+24mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	24/2.8 N Auto NKJ	LMIJ	5-	prototype, 1st lens with CRC	242801	242803		3	-	24	915606			
+F	24/2.8 N Auto NKJ	LMIJ	5-	Ai kit 24	242821	242932 - 246387		3567	Jun 1967 -	24				
+F	24/2.8 N Auto NKJ	LMIJ	5-	Ai kit 23	257011	257075 - 301881		44871	1968 - 1971	24				
+F	24/2.8 N Auto Nikon	LMIJ	5-		310001?	310209 - 353118?	353252	43252	1971 - 1972	24				
+C	24/2.8 N·C Auto	LMIJ	5-/+	multicoated	370001	370158 - 434741		64741	1972 - Mar 1975	24				
+K	24/2.8	LMIJ	5+	Ai kit 22, DOF under focus	450001	450006 - 520855		70855	Jan 1975 - Mar 1977	24				
+Ai	24/2.8	LMIJ	5+	prototype		104096		1	-	24				
+Ai	24/2.8	LMIJ	5+		525001	525127 - 542282			Jan 1977 -	24				
+Ai	24/2.8	MIJ	5+			542497 - 557144			-	24				
+Ai	24/2.8	MIJ	3+			557034 - 684524		159524	- Sep 1981	24				
+Ai-S	24/2.8	MIJ	3+	DOF marks on chrome, SIC coating from 84xxxx	700001	700067 - 857211		157211	Aug 1981 - 2005	24				
+Ai-S	24/2.8	MIJ	3+	2006 serial no	900001	900005 - 905406	>	5406	2006 - >	24				
+AF	24/2.8	Japan	3+	plastic focus, twist aperture lock	200001	200683 - 259837		59837	Sep 1986 - Jun 1991	24				
+AF	24/2.8 New	Japan	3+	rubber focus, slide aperture lock	300001	301605 - 349027		49027	Jun 1991 - Sep 1994	24				
+AF	24/2.8 D	Japan	3+		400001	401331 - 500718		100718	Apr 1994 - 2005	24				
+AF	24/2.8 D	Japan	3+	2006 serial no	600001	600471 - 644274	>	44274	2006 - >	24				
+Ai	2月24日	MIJ	5+	prototype		104291		1	-	24				
+Ai	2月24日	MIJ	5+	DOF marks on black	176021	176166 - 180202			Aug 1977 -	24				
+Ai	2月24日	MIJ	3+			179750 - 193499		17479	- Nov 1981	24				
+Ai-S	2月24日	MIJ	3+	DOF marks on chrome	200001	200011 - 247547		47547	Oct 1981 - Dec 2005	24				
+AF-S	24/1.4 G ED	Japan	4+		200001	201470 - 222289	>	22289	Jan 2010 - >	24				
+AF-S	24/1.4 G ED	Japan	4+	for USA	600001	601134 - 605679	>	5679	Jan 2010 - >	24				
+AF-S	24/1.8 G ED	China	4+		200001	202017 - 219324†	>	19324	Aug 2015 - >	24				
+														
+28mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	2.80/3.5 H Auto NKJ		0	prototype, tick mark		-		-	1959 -	28	1871990			
+F	2.80/3.5 H Auto NKJ	PATS PEND	0	feet/m, long ap.ring won't fit Nikkormat	301011	301026 - 301219			Mar 1960 -	28				
+F	2.80/3.5 H Auto NKJ	PATS PEND	0	feet/m		301224			-	28				
+F	2.80/3.5 H Auto NKJ	LMIJ PATS PEND	0	feet/m		301254 - 304336			-	28				
+F	2.80/3.5 H Auto NKJ	PATS PEND,LMIJ	0	feet or m		304407 - 308789			-	28				
+F	2.80/3.5 H Auto NKJ	LMIJ	0	feet or m		308923 - 324746			-	28				
+F	2.80/3.5 H Auto NKJ	LMIJ	0	feet/m		324509 - 355174		54164	-	28				
+F	2.80/3.5 H Auto NKJ	LMIJ	5-	scalloped aperture ring	356001	356149 - 359241			Feb 1967 -	28				
+F	28/3.5 H Auto NKJ	LMIJ	5-	in mm, chrome		359436 - 365659		9659	-1967	28				
+F	28/3.5 H Auto NKJ	LMIJ	5-	black barrel	602501?	602637 - 614451		11951	1968 -	28				
+F	28/3.5 H Auto NKJ	LMIJ	5-	Ai kit 29 won't fit FG, FA, F4	625611	625733 - 675561		49951	-1971	28				
+F	28/3.5 H Auto Nikon	LMIJ	5-/+		680001?	680056 - 807614		127614	1971 - Jun 1973	28				
+C	28/3.5 H·C Auto	LMIJ	5+	multicoated	850001	850399 - 897972	898367	48367	Jun 1973 - Mar 1975	28				
+K	28/3.5	LMIJ	5+	Ai kit 28	195531	195884 - 279111		83581	Feb 1975 - Mar 1977	28				
+Ai	28/3.5	LMIJ	5+	prototype		104143		1	-	28				
+Ai	28/3.5	LMIJ	5+	thick rear protector	1760201	1760325 - 1776955			Jan 1977 -	28				
+Ai	28/3.5	LMIJ	5+	thin rear protector		1776176 - 1786148			-	28				
+Ai	28/3.5	MIJ	5+			1785006 - 1799669			-	28				
+Ai	28/3.5	MIJ	3+			1798827 - 1954448		194248	- Sep 1981	28				
+Ai-S	28/3.5	MIJ	3+	DOF scale on chrome	2100001	2100036 - 2139271	2139599	39599	Jul 1981 - Mar 1983	28				
+K	28/2.8	LMIJ	5+	Ai kit 27	382011	382028 - 419657		37647	Aug 1974 - 1977	28				
+Ai	28/2.8	LMIJ	5+		430001	430035 - 449819			1977 -	28				
+Ai	28/2.8	MIJ	5+			450548 - 459316			-	28				
+Ai	28/2.8	MIJ	5+	short rear post fits TC-16		458211 - 468289			-	28				
+Ai	28/2.8	MIJ	3+			466581 - 498419^		68419	-	28				
+Ai	28/2.8	MIJ	3+	front edge of focus ring more angular	510001?	510101 - 625883		115883	- Sep 1981	28				
+Ai-S	28/2.8	MIJ	3+	DOF on chrome, CRC focus to 0.2m, SIC from 825xxx	635001	635073 - 837751		202751	Aug 1981 - 2005	28				
+Ai-S	28/2.8	MIJ	3+	2006 serial no	900001	900031 - 906097	>	6097	2006 - >	28				
+E	28/2.8 Series E	MIJ	3+	black ring 150g	1790601	1790713 - 1851892		61292	Nov 1979 - Mar 1981	28				
+E	28/2.8 Series E New	MIJ	3+	chrome ring 155g	1940001	1940121 - 2131239		191239	May 1981 - 1985	28				
+AF	28/2.8	Japan	3+	plastic focus, twist aperture lock	200001	200370 - 281551^		81551	Sep 1986 -	28				
+AF	28/2.8 NASA	Japan	3+	standard production lens	1001	1007		7	-	28				
+AF	28/2.8 New	Japan	3+	rubber focus, slide aperture lock	300001	301906 - 353535		53535	Jun 1991 - Mar 1995	28				
+AF	28/2.8 D	Japan	3+		400001	401187 - 501675		101675	Oct 1994 - 2005	28				
+AF	28/2.8 D	Japan	3+	2006 serial no	600001	600151 - 654381	>	54381	2006 - >	28				
+C	28/2 N Auto NKJ	LMIJ	5-	Ai kit 26, multicoated	280001	280001 - 282998		2998	Aug 1970 - 1971	28				
+C	28/2 N Auto Nikon	LMIJ	5-		290001	290072 - 300770		10770	1971 - 1973	28				
+C	28/2 N·C Auto	LMIJ	5-/+		312501?	312527 - 327920	327984	15484	1973 - Dec 1975	28				
+K	2月28日	LMIJ	5+	Ai kit 25	335001	335002 - 347751^		12751	Nov 1975 - 1977	28				
+Ai	2月28日	LMIJ	5+		450001	450011 - 454222			1977 -	28				
+Ai	2月28日	MIJ	5+			453953 - 454838		4838	-	28				
+Ai	2月28日	MIJ	5+	short rear post - fits TC16	540021	540039 - 546352			-	28				
+Ai	2月28日	MIJ	3+			545589 - 565127		25107	- Nov 1981	28				
+Ai-S	2月28日	MIJ	3+	DOF marks on chrome, SIC coating from 6134xx	575001	575052 - 619716		44716	Sep 1981 - 2005	28				
+Ai-S	28/2 NASA	MIJ	3+	oversize focus ring, scale in feet only	1001	1014 - 1026		26	-	28				
+AF	28/1.4 D	Japan	4+	yellow-green SIC coating from 2025xx	200001	200018 - 207333		7333	Sep 1993 - 2005	28				
+AF-S	28/1.8 G	China	4+		200001	201515 - 242853	>	42853	Apr 2012 - >	28				
+AF-S	28/1.8 G	China	4+	for USA	600001	601341 - 607686	>	7686	Apr 2012 - >	28				
+AF-S	28/1.4 E ED	Japan	4+		200001	201379 - 303816†	>	103816	May 2017 - >	28				
+														
+35mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	3.50/2.8 S Auto NKJ	PAT PEND	0	tick mark lens - big overlap with non tick version	920101	920102: - 921020			Oct 1959 - Aug 1960	35	1594505			
+F	3.50/2.8 S Auto NKJ	PAT PEND	0	9 blades, feet/m, long ap.ring		920467 - 922000			Jun 1960 -	35				
+F	3.50/2.8 S Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m, long ap.ring		922061^ - 923230			-	35				
+F	3.50/2.8 S Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m		923072 - 924206			-	35				
+F	3.50/2.8 S Auto NKJ	LMIJ PAT PEND	0	6 blades, feet/m		924126 - 926234			-	35				
+F	3.50/2.8 S Auto NKJ	PAT PEND, LMIJ	0	feet or m		926337 - 927516		7416	-1962	35				
+F	35/2.8 S Auto NKJ	PAT PEND, LMIJ	0	feet or m, in mm	176911	177020 - 180155			Feb 1962 -	35				
+F	35/2.8 S Auto NKJ	LMIJ	0	feet or m		180264 - 194282^			-	35				
+F	35/2.8 S Auto NKJ	LMIJ	0	feet/m		193945 - 212382		35472	- Nov 1966	35				
+F	35/2.8 S Auto NKJ	LMIJ	5-	scalloped aperture ring	231011	231069 - 245314		14304	Feb 1967 -	35				
+F	35/2.8 S Auto NKJ	LMIJ	5-	Ai kit 36	255311	255334 - 301009		45699	-1971	35				
+F	35/2.8 S Auto Nikon	LMIJ	5-/+		304001?	304052 - 392610		88610	1971 - Aug 1974	35				
+K	35/2.8	LMIJ	5+	Ai kit 35, DOF under focus	773111	773296 - 850768		77658	Jun 1974 - 1978	35				
+Ai	35/2.8	LMIJ	5+		851001	851002 - 864725			Nov 1977 -	35				
+Ai	35/2.8	MIJ	5+			865112 - 870063		19063	-1979	35				
+Ai	35/2.8	MIJ	5+	prototype		104583		1	-	35				
+Ai	35/2.8 New	MIJ	5+	DOF level with focus	350001	350278 - 356920			1979 -	35				
+Ai	35/2.8 New	MIJ	3+			358328 - 459942		109942	- Sep 1981	35				
+Ai-S	35/2.8	MIJ	3+	DOF marks on chrome	521001	521047 - 593678		72678	Aug 1981 - 1989	35				
+E	35/2.5 Series E	MIJ	3+	prototype		1049204		1	1979 -	35				
+E	35/2.5 Series E	MIJ	3+	black ring	1780801	1780975 - 1877908		97108	Mar 1979 - Mar 1981	35				
+E	35/2.5 Series E New	MIJ	3+	chrome ring	1920001	1920235 - 2018854		98854	May 1981 - 1985	35				
+F	35/2 O Auto NKJ	LMIJ	5-	prototype	690001	690012 - 690013		13	1965 -	35				
+F	35/2 O Auto NKJ	LMIJ	5-	Ai kit 34, 280g	690101	690116 - 731412		41312	Dec 1965 -	35				
+F	35/2 O Auto NKJ	LMIJ	5-	Ai kit 33, 285g	741311	741321 - 778785		37475	-1971	35				
+F	35/2 O Auto Nikon	LMIJ	5-		790001?	790722 - 833213		43213	1971 - Oct 1973	35				
+C	35/2 O·C Auto	LMIJ	5+	Ai kit 33, multicoated	835001	835513 - 870802	871141	36141	Oct 1973 - Apr 1975	35				
+K	Feb-35	LMIJ	5+	Ai kit 32, rubber focus	880001	880007 - 913477		33477	Mar 1975 - 1977	35				
+Ai	Feb-35	LMIJ	5+		920001	920025 - 930966			1977 -	35				
+Ai	Feb-35	MIJ	5+	short rear post - fits TC16	931001	931318 - 941637			-	35				
+Ai	Feb-35	MIJ	3+			941723 - 959840^		39840	-	35				
+Ai	Feb-35	MIJ	3+	front edge of focus ring more angular	110001?	110055 - 193558	193574	83574	- Aug 1981	35				
+Ai-S	Feb-35	MIJ	3+	DOF marks on chrome, SIC coating from 320xxx	210001	210015 - 333408		123408	Jun 1981 - 2005	35				
+Ai	Feb-35	MIJ	3+	prototype, with prototype F3!		105022		1	1979 -	35				
+AF	Feb-35	Japan	3+	slide aperture lock	200001	200059 - 238317		38317	Mar 1989 - Mar 1995	35				
+AF	35/2 D	Japan	3+		300001	300594 - 350717		50717	Mar 1995 -	35				
+AF	35/2 D	Japan	3+		400001	400064 - 409295		9295	2005 - 2005	35				
+AF	35/2 D	Japan	3+	2006 serial no	500001	500349 - 663371^	>	163371	2006 - >	35				
+AF-S	35/1.8 G ED	China	4+		200001	202518 - 255573	>	55573	Jan 2014 - >	35				
+C	35/1.4 N Auto NKJ	LMIJ	5-	prototype, Thorium glass turns yellow	254001	254003		3	1970 -	35				
+C	35/1.4 N Auto NKJ	LMIJ	5-	f22, 9 blades, multicoated, Ai kit 31	350001	350004 - 352697		2697	May 1970 - 1971	35				
+C	35/1.4 N Auto Nikon	LMIJ	5-	f22, 9 blades	360001	360014 - 368727		8727	1971 - 1973	35				
+C	35/1.4 N·C Auto	LMIJ	5+	f22, 7 blades	370001	370021 - 376927	377067	7067	1973 - Jan 1976	35				
+C	35/1.4 N·C Auto NASA	LMIJ	5+	oversize focus scale in feet	1001	1007 - 1012	1019	19	1976 - 1976	35				
+K,Ai	35/1.4	LMIJ	5+	f22, 7 blades, No Thorium, kit 30 won't fit FA, F4	385001	385007 - 389488		4488	Dec 1975 - 1977	35				
+Ai	35/1.4	LMIJ	5+	f16, 7 blades	400001	400006 - 402346			1977 -	35				
+Ai	35/1.4	MIJ	5+			401751 - 403498			-	35				
+Ai	35/1.4	MIJ	3+			403229 - 416628		16628	- Nov 1981	35				
+Ai	35/1.4 NASA	MIJ	3+	metal focus ring, feet only	1001	1002 - 1016		16	-	35				
+Ai-S	35/1.4	MIJ	3+	9 blades, DOF on chrome, SIC from 479xxx	430001	430002 - 507336		77336	Dec 1981 - 2005	35				
+Ai-S	35/1.4	MIJ	3+	2006 serial no	600001	600003 - 613995	>	13995	2006 - >	35				
+Ai-S	35/1.4 NASA	MIJ	3+	metal focus ring, feet only		1036 - 1066		31	-	35				
+AF-S	35/1.4 G	Japan	4+		200001	202205 - 233269	>	33269	Sep 2010 - >	35				
+AF-S	35/1.4 G	Japan	4+	for USA	600001	602060 - 607696	>	7696	Sep 2010 - >	35				
+														
+45-50mm Slow top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	45/2.8 GN Auto NKJ	LMIJ	5-	9 blades, Ai kit 83,84,85	710101	710102 - 725535			Aug 1968 - 1970	45-50 Slow	9346021			
+F	45/2.8 GN Auto NKJ	LMIJ	5-	7 blades		725705^ - 733948		23848	1970 - 1971	45-50 Slow				
+F	45/2.8 GN Auto Nikon	LMIJ	5+		740001?	740093 - 745837	746389	6389	1971 - 1973	45-50 Slow				
+C	45/2.8 GN Auto C	LMIJ	5+	multicoated	760001	760009 - 773047		13047	1973 - Mar 1977	45-50 Slow				
+Ai-P	45/2.8 P	MIJ	3+	chrome	200001	200042 - 214904		14904	Feb 2001 -	45-50 Slow				
+Ai-P	45/2.8 P	MIJ	3+	chrome	300001	300014 - 308652?		8652	Sep 2001 - 2005	45-50 Slow				
+Ai-P	45/2.8 P	MIJ	3+	black		308435 - 318974		10540	Sep 2001 - 2005	45-50 Slow				
+Ai-P	45/2.8 P	MIJ	3+	black	400001	400012 - 400930		930	Mar 2006 - Mar 2006	45-50 Slow				
+F	50/2 S Auto NKJ	PAT PEND	0	prototype	520001	520001 - 520002		2	Feb 1959 -	45-50 Slow				
+F	50/2 S Auto NKJ	PAT PEND	0	tick mark lens	520101	520101 - 525981			Apr 1959 - 1960	45-50 Slow				
+F	50/2 S Auto NKJ	PAT PEND	0	9 blades, feet/m, long ap.ring		525380 - 531880			1960 -	45-50 Slow				
+F	50/2 S Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m, long ap.ring		531905 - 534145			-	45-50 Slow				
+F	50/2 S Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m		533768 - 534691			-	45-50 Slow				
+F	50/2 S Auto NKJ	LMIJ PAT PEND	0	6 blades, feet/m		534827 - 536845			-	45-50 Slow				
+F	50/2 S Auto NKJ	PAT PEND, LMIJ	0	feet or m		537033 - 564197			-	45-50 Slow				
+F	50/2 S Auto NKJ	LMIJ	0	feet or m		563829 - 583738^	584394	64294	- Dec 1963	45-50 Slow				
+F	50/2 H Auto NKJ	LMIJ	0	looks like 50/2, feet or m	600001	600010^ - 611350			Jan 1964 -	45-50 Slow				
+F	50/2 H Auto NKJ	LMIJ	0	feet/m		610974 - 704257		104257	- Feb 1967	45-50 Slow				
+F	50/2 H Auto NKJ	LMIJ	5-	scalloped aperture ring, Ai kit 3	742111	742114 - 783141		41031	Mar 1967 - 1968	45-50 Slow				
+F	50/2 H Auto NKJ	LMIJ	5-	Ai kit 2	785011	785656 - 983907		198897	1968 - 1971	45-50 Slow				
+F	50/2 H Auto Nikon	LMIJ	5-		1002001?	1002571 - 1068197		66197	1971 -	45-50 Slow				
+F	50/2 H Auto Nikon	LMIJ	5-		2002001?	2002260 - 2127288^		125288	- Sep 1972	45-50 Slow				
+C	50/2 H·C Auto	LMIJ	5-/+	multicoated	2140201	2140232 - 2324495	2329000	188800	Dec 1972 - Oct 1974	45-50 Slow				
+K	Feb-50	LMIJ	5+	rubber focus, Ai kit 1	3100001	3100417 - 3339337		239337	Nov 1974 - 1977	45-50 Slow				
+Ai	Feb-50	LMIJ	5+	prong with large holes to 353xxxx	3500001	3500010 - 3610389			Mar 1977 -	45-50 Slow				
+Ai	Feb-50	MIJ	5+			3605363 - 3700001			-	45-50 Slow				
+Ai	Feb-50	MIJ	3+			3696588 - 3813172		313172	- Jan 1979	45-50 Slow				
+Ai	50/1.8	MIJ	3+	straight nose	1760801	1762193 - 2165418		404618	Jan 1978 - Oct 1982	45-50 Slow				
+Ai-S	50/1.8	MIJ	3+	stepped nose, narrow ap.ring, for export	3135001	3135197 - 3304551		169551	Jul 1981 - Sep 1985	45-50 Slow				
+E	50/1.8 Series E	MIJ	3+	prototype		1049435 - 1049958		524	1979 -	45-50 Slow				
+E	50/1.8 Series E	MIJ	3+	black ring	1055001	1055140 - 1871115		816115	Mar 1979 - Mar 1981	45-50 Slow				
+E	50/1.8 Series E New	MIJ	3+	chrome ring	1900001	1902451 - 3330226		1430226	May 1981 - 1985	45-50 Slow				
+Ai-S	50/1.8	MIJ	3+	prototype	1781001	1781001		1	1980 -	45-50 Slow				
+Ai-S	50/1.8 Japan	MIJ	3+	rubber focus, focus to 0.45m, for Japan	2050001	2050340 - 2259472			1980 -	45-50 Slow				
+Ai-S	50/1.8 Japan	MIJ	3+	solid rear lens protectors		2255877 - 2266119	2268017	218017	- Oct 1982	45-50 Slow				
+Ai-S	50/1.8 New	MIJ	3+	plastic focus, focus to 0.6m	4000001	4000010 - 4459567		459567	Aug 1985 - 2005	45-50 Slow				
+AF	50/1.8	Japan	3+	plastic focus, twist aperture lock, 210g	2000001	2001528 - 2111308	2120844	120844	Sep 1986 - Mar 1987	45-50 Slow				
+AF	50/1.8	Japan	3+	165g, no screw on barrel below 1:1.8	3000001	3001973 - 3238859		238859	-1990	45-50 Slow				
+AF	50/1.8 New	Japan	3+	rubber focus, slide aperture lock	4000001	4004305 - 4307133		307133	Jan 1990 -	45-50 Slow				
+AF	50/1.8 New	China	3+	sometimes labelled "Nikon JAPAN"	4500001	4502xxx - 4600507		100507	- Nov 2001	45-50 Slow				
+AF	50/1.8 D	China	3+		200001	202071 - 341667		141667	Feb 2002 - 2005	45-50 Slow				
+AF	50/1.8 D	China	3+	2006 serial no	400001	404031 - 992100		592100	2006 - 2009	45-50 Slow				
+AF	50/1.8 D	China	3+		2000001	2020035 - 3417586	>	1417586	2010 - >	45-50 Slow				
+AF-S	50/1.8 G	China	4+		2000001	2011708 - 3341xxx†	>	1341000	Apr 2011 - >	45-50 Slow				
+AF-S	50/1.8 G	China	4+	for USA	6000001	6002026 - 6128765	>	128765	Apr 2011 - >	45-50 Slow				
+AF-S	50/1.8 G	China	4+	for Df camera	200001	201032 - 239356	>	39356	Nov 2013 - >	45-50 Slow				
+														
+50-58mm Fast top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	58/1.4 S Auto NKJ	PAT PEND	0	feet/m, long ap.ring won't fit Nikkormat	140051	140097 - 142448			Oct 1959 -	50-58 Fast	4973808			
+F	58/1.4 S Auto NKJ	LMIJ PAT PEND	0	feet/m, long ap.ring		142463^ - 144388		4338	-	50-58 Fast				
+F	58/1.4 S Auto NKJ	LMIJ PAT PEND	0	feet/m	148001	148001^ - 150016			Mar 1960 - Jun 1960	50-58 Fast				
+F	58/1.4 S Auto NKJ	LMIJ PAT PEND	0	feet/m, stepped filter ring, LMIJ often missing		151009 - 158046			Jul 1960 -	50-58 Fast				
+F	58/1.4 S Auto NKJ	PAT PEND, LMIJ	0	feet or m		157667^ - 179045	179051	31051	- Jan 1962	50-58 Fast				
+F	50/1.4 S Auto NKJ	PAT PEND, LMIJ	0	prototype in 0, feet/m	314101	314101		1	Jan 1962 -	50-58 Fast				
+F	50/1.4 S Auto NKJ	PAT PEND, LMIJ	0	fine ap.ring	314111	314135 - 328065			Mar 1962 -	50-58 Fast				
+F	50/1.4 S Auto NKJ	PAT PEND, LMIJ	0	scalloped ap.ring, PAT.PEND often missing		328069 - 329886			-	50-58 Fast				
+F	50/1.4 S Auto NKJ	PAT PEND, LMIJ	0	fine ap.ring		329764 - 331226^			-	50-58 Fast				
+F	50/1.4 S Auto NKJ	LMIJ	0	scalloped ap.ring		331463 - 395820			-	50-58 Fast				
+F	50/1.4 S Auto NKJ	LMIJ	0	feet/m		395308 - 454670		140560	-	50-58 Fast				
+F	50/1.4 S Auto NKJ	LMIJ	0	7 aperture blades	465011	465056 - 516729		51719	Apr 1966 - Jan 1967	50-58 Fast				
+F	50/1.4 S Auto NKJ	LMIJ	5-	5 screws, wider focus ring, Ai kit 7	532011	532070 - 635350		103340	Jan 1967 - 1968	50-58 Fast				
+F	50/1.4 S Auto NKJ	LMIJ	5-	Ai kit 6	635511	635636 - 893962		258452	1968 - 1971	50-58 Fast				
+F	50/1.4 S Auto Nikon	LMIJ	5-	round prong	1020001	1020012 - 1256578		236578	1971 - 1973	50-58 Fast				
+C	50/1.4 S·C Auto	LMIJ	5-/+	multicoated	1280001	1280213 - 1613390	1613735	333735	1973 - Jun 1974	50-58 Fast				
+K	50/1.4	LMIJ	5+	DOF on black, Ai kit 5	2797021	2797203 - 3003969	3004000	206980	Aug 1974 - Jan 1976	50-58 Fast				
+K	50/1.4 New	LMIJ	5+	dash index, DOF on chrome, Ai kit 4	3750401	3753819 - 3883652		133252	Jan 1976 - 1977	50-58 Fast				
+Ai	50/1.4	LMIJ	5+	dash index	3940001	3940095 - 3979922			Mar 1977 -	50-58 Fast				
+Ai	50/1.4	LMIJ	5+	dash index, short rear post - fits TC16	3980001	3985132 - 4052236			-	50-58 Fast				
+Ai	50/1.4	LMIJ	5+	dot index		4046838 - 4095579			-	50-58 Fast				
+Ai	50/1.4	MIJ	5+	dot index		4092065 - 4127031			-	50-58 Fast				
+Ai	50/1.4	MIJ	3+	dot index		4125527 - 4264964			-	50-58 Fast				
+Ai	50/1.4	MIJ	3+	two screws in aperture ring		4269873 - 4850681		910681	- Jun 1981	50-58 Fast				
+Ai	50/1.4 Gold	MIJ	3+	with 60th anniversary Gold FM	60001	60029 - 60139	60300	300	1977 - 1977	50-58 Fast				
+Ai-S	50/1.4	MIJ	3+	stepped nose	5100001	5100016 - 5858632		758632	Jul 1981 - Dec 2005	50-58 Fast				
+Ai-S	50/1.4	MIJ	3+	2006 serial no	6000001	6000626 - 6020986	>	20986	Jan 2006 - >	50-58 Fast				
+Ai-S	50/1.4 F3/T	MIJ	3+	with F3/T champaign limited edition	8200001	8200001 - 8200277	8200300	300	1982 - 1982	50-58 Fast				
+Ai-S	50/1.4 Dragon	MIJ	3+	with year of Dragon FM2N	0001/2000	0209/2000 - 1451/2000	2000/2000	2000	2000 - 2000	50-58 Fast				
+AF	50/1.4	Japan	3+	plastic focus, twist aperture lock	2000001	2000887 - 2077229		77229	Sep 1986 - 1991	50-58 Fast				
+AF	50/1.4 New	Japan	3+	rubber focus, slide aperture lock	3000001	3000155 - 3067644		67644	Jun 1991 - Jul 1995	50-58 Fast				
+AF	50/1.4 D	Japan	3+		4000001	4000923 - 4042800		42800	Apr 1995 -	50-58 Fast				
+AF	50/1.4 D	China	3+	some early made in Japan	4500001	4500314 - 4641861		141861	-	50-58 Fast				
+AF	50/1.4 D	China	3+		5000001	5001361 - 5025719		25719	2005 - 2005	50-58 Fast				
+AF	50/1.4 D	China	3+	2006 serial no	6000001	6000246 - 6336656	>	336656	2006 - >	50-58 Fast				
+AF-S	50/1.4 G	China	4+	overlap with US series!	200001	203772 - 730137†	>	530137	Sep 2008 - >	50-58 Fast				
+AF-S	50/1.4 G	China	4+	for USA	600001	601289 - 700165	>	100165	Sep 2008 - >	50-58 Fast				
+F	55/1.2 S Auto NKJ	LMIJ	3-	prototype, 60mm filter, pointed prong	970101	970103		3	-	50-58 Fast				
+F	55/1.2 S Auto NKJ	LMIJ	3-	no groove around aperture ring	970111	970120 - 972620			Dec 1965 -	50-58 Fast				
+F	55/1.2 S Auto NKJ	LMIJ	3-	groove around aperture ring		972247 - 985390		15280	- Oct 1967	50-58 Fast				
+F	55/1.2 S Auto NKJ	LMIJ	3-	Ai kit 9 wont fit FG, FA, F4	184711	184874 - 193143			Nov 1967 - Oct 1968	50-58 Fast				
+F	55/1.2 S Auto NKJ	LMIJ	5-	round prong from 21xxxx		192153 - 215657		30947	Nov 1968 - Jul 1971	50-58 Fast				
+F	55/1.2 S Auto Nikon	LMIJ	5-	rear elements multicoated	220001	220002 - 240484	240533	20533	Aug 1971 - Sep 1972	50-58 Fast				
+Ai	55/1.2 S Auto NASA	LMIJ	5-	oversize focus scale in feet	800001/1001	800001/1001 - 800014/1014	800018/1018	18	-	50-58 Fast				
+F	55/1.2 S Auto Nikon		5-	for NASA, finely knurled focus ring	8000001?	8000111 - 8000116		116	-	50-58 Fast				
+C	55/1.2 S·C Auto	LMIJ	5-/+	all multicoated	250001	250008 - 300545	300556	50556	Oct 1972 - Dec 1974	50-58 Fast				
+K	55/1.2	LMIJ	5+	rubber focus, Ai kit 8	350011	350038 - 385739		35729	Nov 1974 - Apr 1977	50-58 Fast				
+Ai	55/1.2	LMIJ	5+	assymetric prong to 4134xx	400001	400040 - 414899			Apr 1977 -	50-58 Fast				
+Ai	55/1.2	MIJ	5+			414238 - 425518		25518	- Apr 1978	50-58 Fast				
+Ai	50/1.2	MIJ	3+	prototype		104592		1	1978 - 1978	50-58 Fast				
+Ai	50/1.2	MIJ	3+	7 aperture blades, outside filter ring	177051	177256 - 250513		73463	Mar 1978 - Jun 1981	50-58 Fast				
+Ai-S	50/1.2	MIJ	3+	9 aperture blades, data on focus ring	250001	250005 - 391172^		141172	Jun 1981 - 2005	50-58 Fast				
+Ai-S	50/1.2	MIJ	3+	2006 serial no	400001	400069 - 423328^	>	23328	2006 - >	50-58 Fast				
+Ai-S	50/1.2 Classic	MIJ	3+	with F3/T Classic limited edition	5000001	5000013 - 5000100	5000100	100	1982 - 1982	50-58 Fast				
+K,Ai	58/1.2 Noct	LMIJ	5+	prototype, N and Ai		104111 - 104112		2	1976 -	50-58 Fast				
+Ai	58/1.2 Noct	LMIJ	5+	7 blades, DOF on black	172011	172028 - 172530			Feb 1977 -	50-58 Fast				
+Ai	58/1.2 Noct	MIJ	5+			172797 - 174472		2462	- Nov 1981	50-58 Fast				
+Ai-S	58/1.2 Noct	MIJ	3+	9 blades, DOF on chrome, 192811-981 engraved Nocf	185001	185002 - 193951		8951	Nov 1981 - 1998	50-58 Fast				
+AF-S	58/1.4 G	Japan	4+		200001	200338 - 230513†	>	30513	Oct 2013 - >	50-58 Fast				
+														
+80-85mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	85/1.8 H Auto NKJ	LMIJ	5-	prototype, chrome, data on focus ring	188001	188003		3	May 1964 -	80-85	1199991			
+F	85/1.8 H Auto NKJ	LMIJ	5-	data inside filter, feet or m, 430g	188011	188033 - 188955			Aug 1964 -	80-85				
+F	85/1.8 H Auto NKJ	LMIJ	5-	data inside filter, feet/m		188925 - 195184		7174	-1966	80-85				
+F	85/1.8 H Auto NKJ	LMIJ	5-	data on barrel	205001?	205272 - 210302		5302	1967 - 1968	80-85				
+F	85/1.8 H Auto NKJ	LMIJ	5-	Ai kit 38, 420g	219901	219901 - 247423		27523	1969 - 1971	80-85				
+F	85/1.8 H Auto Nikon	LMIJ	5-		250001?	250051 - 284657	284661	34661	1971 - 1972	80-85				
+C	85/1.8 H·C Auto	LMIJ	5+	multicoated	390001	390004 - 402690		12690	1972 - Apr 1975	80-85				
+K	85/1.8	LMIJ	5+	rubber focus, Ai kit 37	410001	410024 - 443163		33163	Mar 1975 - Feb 1977	80-85				
+Ai	Feb-85	LMIJ	5+	prototype		104102		1	-	80-85				
+Ai	Feb-85	LMIJ	5+	prong with large holes	175111	175278 - 179151			Apr 1977 -	80-85				
+Ai	Feb-85	MIJ	5+			178259 - 193769			-	80-85				
+Ai	Feb-85	MIJ	3+	sheet metal prong from 2100xx		192159 - 265143		90033	- Sep 1981	80-85				
+Ai-S	Feb-85	MIJ	3+	DOF scale on chrome	270001	270045 - 358019		88019	Aug 1981 - Mar 1995	80-85				
+F3AF	80/2.8	Japan	4+	prototype		100293		1	1983 -	80-85				
+F3AF	80/2.8	Japan	4+	for F3-AF	182011	182044 - 194486		12476	Apr 1983 - 1986	80-85				
+AF	85/1.8	Japan	3+	twist aperture lock	200001	201800 - 311119		111119	Dec 1987 - Apr 1994	80-85				
+AF	85/1.8 D	Japan	3+	slide aperture lock	400001	400228 - 506533		106533	Mar 1994 - 2005	80-85				
+AF	85/1.8 D	Japan	3+	2006 serial no	600001	601443 - 677523		77523	2006 - 2009	80-85				
+AF	85/1.8 D	Thailand	3+		2000001	2000083 - 2052181		52181	2010 - 2012	80-85				
+AF	85/1.8 D	Japan	3+		2100001	2103653^ - 2107777	>	7777	2013 - >	80-85				
+AF-S	85/1.8 G IF	China	4+		200001	201598 - 449904	>	249904	Jan 2012 - >	80-85				
+AF-S	85/1.8 G IF	China	4+	for USA	600001	601454 - 624328	>	24328	Jan 2012 - >	80-85				
+Ai-S	85/1.4	MIJ	5+		179091	179101 - 245723		66633	Mar 1981 - 2005	80-85				
+AF	85/1.4 D IF	Japan	4+		200001	200121 - 228679		28679	Nov 1995 -	80-85				
+AF	85/1.4 D IF	Japan	4+		300001	300788 - 303107		3107	2005 - 2005	80-85				
+AF	85/1.4 D IF	Japan	4+	2006 serial no	400001	400520 - 471426^		71426	2006 - Jul 2010	80-85				
+AF-S	85/1.4 G IF	Japan	4+		200001	202547 - 273538	>	73538	Aug 2010 - >	80-85				
+AF-S	85/1.4 G IF	Japan	4+	for USA	600001	604004 - 616197	>	16197	Aug 2010 - >	80-85				
+														
+100-105mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	10.50/4 T NKJ	LMIJ	3-	feet/m, serials mixed with RF version	405401?	405406 - 409331			Jul 1960 -	100-105	937104			
+F	10.50/4 T NKJ	LMIJ	3-	feet or m		409220 - 411308		5908	-1961	100-105				
+F	10.50/2.5 P Auto NKJ	PAT PEND	0	tick mark lens	120101	120104 - 121082			Apr 1959 -	100-105				
+F	10.50/2.5 P Auto NKJ	PAT PEND	0	9 blades, feet/m, long ap.ring		121118 - 122677			-	100-105				
+F	10.50/2.5 P Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m, long ap.ring		122728 - 123631			-	100-105				
+F	10.50/2.5 P Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m		123724 - 124553			-	100-105				
+F	10.50/2.5 P Auto NKJ	LMIJ PAT PEND	0	6 blades, feet/m		124029 - 125997			-	100-105				
+F	10.50/2.5 P Auto NKJ	PAT PEND, LMIJ	0	feet or m		125830 - 130871			-	100-105				
+F	10.50/2.5 P Auto NKJ	LMIJ	0	feet or m, rear coating purple		132041 - 150223			-	100-105				
+F	10.50/2.5 P Auto NKJ	LMIJ	0	feet/m		150197 - 151270			-	100-105				
+F	105/2.5 P Auto NKJ	LMIJ	0	feet/m, in mm		151363 - 153462		33362	-	100-105				
+F	10.50/2.5 P Auto NKJ	LMIJ	0	feet/m or feet only, in 0 again	155001?	155004 - 156583			-	100-105				
+F	105/2.5 P Auto NKJ	LMIJ	0	feet/m, in mm		156907 - 172697		17697	-	100-105				
+F	105/2.5 P Auto NKJ	LMIJ	5-	scalloped aperture ring	194011	194094 - 221768		27758	Dec 1966 -	100-105				
+F	105/2.5 P Auto NKJ	LMIJ	5-	Ai kit 40	234011	234140 - 286276		52266	- Mar 1971	100-105				
+F	105/2.5 P Auto NKJ	LMIJ	5-	7 blades, f32, black, Ai kit 39	407301	407467 - 408382			Apr 1971 - 1971	100-105				
+F	105/2.5 P Auto Nikon	LMIJ	5-			408816 - 472739	473834	66534	1971 - 1973	100-105				
+C	105/2.5 P·C Auto	LMIJ	5+	multicoated	500001	500038 - 571504	571564	71564	1973 - Mar 1975	100-105				
+K	105/2.5	LMIJ	5+	rubber focus, f32, Ai kit 39	673101	673110 - 729914		56814	Sep 1974 - 1977	100-105				
+Ai	105/2.5	LMIJ	5+	f22	740001	740009 - 764452			1977 -	100-105				
+Ai	105/2.5	MIJ	5+			764011 - 897333		157333	- Sep 1981	100-105				
+Ai-S	105/2.5	MIJ	3+	built-in hood, SIC coating from 1043xxx	890001	890015 - 1053938		163938	Aug 1981 - 2005	100-105				
+E	100/2.8 Series E	MIJ	3+	prototype		1048601		1	-	100-105				
+E	100/2.8 Series E	MIJ	3+	black ring, 225g	1780701	1780787 - 1890124		109424	Mar 1979 - Mar 1981	100-105				
+E	100/2.8 Series E New	MIJ	3+	chrome ring, 215g	1930001	1930004 - 2011608		81608	May 1981 - 1985	100-105				
+Ai-S	105/1.8	MIJ	5+	prototype	169091	169091		1	Aug 1980 -	100-105				
+Ai-S	105/1.8	MIJ	5+		179091	179097 - 223497		44407	Mar 1981 - 2005	100-105				
+AF	105/2 D DC	Japan	4+		200001	200203 - 214195		14195	Sep 1993 -	100-105				
+AF	105/2 D DC	Japan	4+		300001	300070 - 303501		3501	2005 - 2005	100-105				
+AF	105/2 D DC	Japan	4+	2006 serial no	400001	400154 - 414932^	>	14932	2006 - >	100-105				
+AF-S	105/1.4 E ED	China	4+		2000001	2000120 - 2015861†	>	15861	Jul 2016 - >	100-105				
+														
+135mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	13.50/3.5 Q Auto NKJ	PAT PEND	0	tick mark lens	720101	720110 - 721098			Jun 1959 - 1960	135	1077742			
+F	13.50/3.5 Q Auto NKJ	PAT PEND	0	9 blades, feet/m, long ap.ring		721166 - 722407			1960 -	135				
+F	13.50/3.5 Q Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m, long ap.ring		722412 - 723319			-	135				
+F	13.50/3.5 Q Auto NKJ	LMIJ PAT PEND	0	9 blades, feet/m		723344 - 724294			-	135				
+F	13.50/3.5 Q Auto NKJ	LMIJ PAT PEND	0	6 blades, feet/m, 7251xx - 7255xx no LMIJ		724354 - 726737			1961 -	135				
+F	13.50/3.5 Q Auto NKJ	PAT PEND, LMIJ	0	feet or m		726910 - 735046			-	135				
+F	13.50/3.5 Q Auto NKJ	LMIJ	0	feet or m		735314 - 748587			-	135				
+F	13.50/3.5 Q Auto NKJ	LMIJ	0	feet/m		748321 - 752832			-	135				
+F	135/3.5 Q Auto NKJ	LMIJ	0	in mm		753321 - 774266		54166	-	135				
+F	135/3.5 Q Auto NKJ	LMIJ	5-		795011	795161 - 819745		24735	Nov 1966 -	135				
+F	135/3.5 Q Auto NKJ	LMIJ	5-	Ai kit 47	831211	831272 - 847365		16155	- Jun 1969	135				
+F	135/3.5 Q Auto NKJ New	LMIJ	5-	7 blades, f32, scalloped ap.ring, Ai kit 46	865101	865291 - 903847	904080	38980	Jun 1969 - 1971	135				
+F	135/3.5 Q Auto Nikon	LMIJ	5-/+		912001?	912276 - 981159	981870	69870	1971 - 1973	135				
+C	135/3.5 Q·C Auto	LMIJ	5+	multicoated	111111	111175 - 141408	141500	30390	1973 - Jun 1975	135				
+K	135/3.5	LMIJ	5+	rubber focus, Ai kit 45	158101	158233 - 182526		24426	May 1975 - Mar 1977	135				
+Ai	135/3.5	LMIJ	5+	prototype		9273xx		1	1977 -	135				
+Ai	135/3.5	LMIJ	5+		193501	193628 - 202984			Mar 1977 -	135				
+Ai	135/3.5	MIJ	5+			202131 - 260855			-	135				
+Ai	135/3.5	MIJ	5+	2 screws in aperture ring		261165 - 297657		104157	- Sep 1981	135				
+Ai-S	135/3.5	MIJ	3+	DOF scale on chrome	290001	290001 - 308191	309973	19973	Sep 1981 - Mar 1983	135				
+F	135/2.8 Q Auto NKJ	LMIJ	0	prototype	630001	630003		3	1964 -	135				
+F	135/2.8 Q Auto NKJ	LMIJ	0	610g, pointed prong	135001	135050 - 144627		9627	Dec 1965 - Jan 1967	135				
+F	135/2.8 Q Auto NKJ	LMIJ	5-	620g	163011	163155 - 178118		15108	Jan 1967 -	135				
+F	135/2.8 Q Auto NKJ	LMIJ	5-	Ai kit 44, round prong from 237xxx	189311	189506 - 247708			1969 - 1971	135				
+F	135/2.8 Q Auto Nikon	LMIJ	5-/+			247849 - 365426	367229	177919	1971 - 1973	135				
+C	135/2.8 Q·C Auto	LMIJ	5+	multicoated, data outside filter	380001	380035 - 421005	421067	41067	1973 - Mar 1975	135				
+K	135/2.8	LMIJ	5+	rubber focus, f22, Ai kit 43	430001	430373 - 464156		34156	Jun 1975 - Mar 1976	135				
+K	135/2.8 New	LMIJ	5+	compact, f32, Ai kit 42	730001	730140 - 757424		27424	Jan 1976 - 1977	135				
+Ai	135/2.8	LMIJ	5+		770001	770014 - 788033			Mar 1977 -	135				
+Ai	135/2.8	MIJ	5+			789164 - 916914		146914	- Sep 1981	135				
+Ai-S	135/2.8	MIJ	3+	DOF scale on chrome	900001	900010 - 976038		76038	Sep 1981 - 2005	135				
+E	135/2.8 Series E	MIJ	3+		180031	180431 - 257045		77015	Mar 1981 - 1985	135				
+K	135/2	LMIJ	5+	prototype		103783		1	1975 -	135				
+K	135/2	LMIJ	5+	Ai kit 41	175011	175012 - 179779		4769	Dec 1975 - 1977	135				
+Ai	135/2	LMIJ	5+		190001	190010 - 191542			1977 -	135				
+Ai	135/2	MIJ	5+			191237 - 197527		7527	- Dec 1981	135				
+Ai-S	135/2	MIJ	5+	DOF on chrome, longer hood	201001	201046 - 233286		32286	Dec 1981 - 2005	135				
+AF	135/2 DC	Japan	4+		200001	200230 - 213258		13258	Oct 1990 - Dec 1995	135				
+AF	135/2 D DC	Japan	4+		300001	300048 - 307902		7902	Nov 1995 -	135				
+AF	135/2 D DC	Japan	4+		400001	400097 - 400688		688	-2005	135				
+AF	135/2 D DC	Japan	4+	2006 serial no	500001	500896 - 523187	>	23187	2006 - >	135				
+														
+180mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	180/2.8 P Auto NKJ	LMIJ	5-	Ai kit 48	312011	312012 - 313361		1351	Jun 1970 - 1971	180	202330			
+F	180/2.8 P Auto Nikon	LMIJ	5-		320001?	320018 - 336000	336108	16108	1971 - Jan 1974	180				
+C	180/2.8 P·C Auto	LMIJ	5+	multicoated	350001	350016 - 353162		3162	Jun 1975 - 1977	180				
+Ai	180/2.8	LMIJ	5+	hood grip	360001	360002 - 361850			1977 -	180				
+Ai	180/2.8	MIJ	5+	no hood grip		361748 - 378515		18515	- Oct 1981	180				
+Ai-S	180/2.8 Nikkor*ED	MIJ	5+	prototype	370001	370001		1	Sep 1980 -	180				
+Ai-S	180/2.8 Nikkor*ED	MIJ	5+		380001	380004 - 454048		74048	Mar 1981 - Dec 2005	180				
+AF	180/2.8 IF-ED	Japan	5+	plastic barrel, plastic focus	200001	200089 - 206964			Sep 1986 -	180				
+AF	180/2.8 IF-ED	Japan	5+	plastic barrel, rubber focus		206561 - 211148	211081	11081	- Aug 1987	180				
+AF	180/2.8 IF-ED New	Japan	5+	crinkle finish, 2 row grip aperture ring	250001	250067 - 299557		49557	Nov 1987 - Aug 1995	180				
+AF	180/2.8 D IF-ED	Japan	5+	3 row grip aperture ring	400001	400669 - 419070		19070	Dec 1994 -	180				
+AF	180/2.8 D IF-ED	Japan	5+		500001	500080		80	2005 - 2005	180				
+AF	180/2.8 D IF-ED	Japan	5+	2006 serial no	600001	600047 - 609357	>	9357	2006 - >	180				
+														
+200mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	200/4 Q Auto NKJ	PAT PEND, LMIJ	0	feet or m, no hood button	169211	169217 - 169812			Jul 1961 - Dec 1961	200	567771			
+F	200/4 Q Auto NKJ	PAT PEND, LMIJ	0	feet or m, hood button		169809 - 173932			Dec 1961 - 1962	200				
+F	200/4 Q Auto NKJ	LMIJ	0	feet or m, from 184xxx with 6 screws in focus ring		174312 - 190947			1962 -	200				
+F	200/4 Q Auto NKJ	LMIJ	0	feet/m		189468 - 218112		48902	-	200				
+F	200/4 Q Auto NKJ	LMIJ	5-	first batch marked 200	270011	270111^			Jan 1967 -	200				
+F	200/4 Q Auto NKJ	LMIJ	5-	in mm, 580g		270346 - 293655		23645	-	200				
+F	200/4 Q Auto NKJ	LMIJ	5-	Ai kit 51, 590g	304411	304481 - 319847	319959	15549	- Apr 1969	200				
+F	200/4 Q Auto NKJ New	LMIJ	5-	black, wide focus ring, Ai kit 50	420001	420464 - 432029			Jul 1969 -	200				
+F	200/4 Q Auto NKJ	LMIJ	5-	ridge around aperture ring		432348 - 449719			-	200				
+F	200/4 Q Auto NKJ	LMIJ	5-	wider hood grip		450427 - 461738		41738	-1971	200				
+F	200/4 Q Auto Nikon	LMIJ	5-		470001?	470170 - 556596	560601	90601	1971 - 1973	200				
+C	200/4 Q·C Auto	LMIJ	5+	multicoated	570001	570084 - 634036		64036	1973 - Jan 1976	200				
+K	200/4	LMIJ	5+	rubber focus, Ai kit 49	670001	670142 - 705139		35139	Aug 1975 - 1977	200				
+Ai	200/4	LMIJ	5+		710001	710155 - 739174			1977 -	200				
+Ai	200/4	MIJ	5+			738930 - 858563		148563	- Oct 1981	200				
+Ai-S	200/4	MIJ	5+	DOF scale on chrome	900001	900747 - 980088		80088	Nov 1981 - Jan 1996	200				
+F3AF	200/3.5 Nikkor*ED IF	Japan	5+	for F3-AF	182021?	182027 - 187186		5166	Apr 1983 - 1986	200				
+Ai	200/2 Nikkor*ED IF	LMIJ	5+	clam tripod, HN-18 hood, data on barrel	176111	176114 - 176141		31	Jan 1977 -	200				
+Ai	200/2 Nikkor*ED IF	MIJ	5+	built-in tripod & hood, data at front	176301?	176324 - 177530		1230	Apr 1977 - Feb 1982	200				
+Ai-S	200/2 Nikkor*ED IF	MIJ	5+		178501	178519 - 179156	179160	660	Jan 1982 - Mar 1986	200				
+Ai-S	200/2 IF-ED N	MIJ	5+	new cosmetics, gel holder	200001	200006 - 201780		1780	Dec 1986 - 2005	200				
+AF-S	200/2 G IF-ED VR	Japan	5+	MA-M switch, meniscus protective lens	200001	200038 - 202345		2345	Jun 2004 - 2005	200				
+AF-S	200/2 G IF-ED VR	Japan	5+	2006 serial no	300001	3000xx - 303501		3501	2006 - Aug 2010	200				
+AF-S	200/2 G IF-ED VR II	Japan	5+	AM-MA-M switch, Nano Coat, VRII, gold "VR"	200001	200048 - 204797†	>	4797	Sep 2010 - >	200				
+														
+300mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	300/4.5 P Auto NKJ	LMIJ	5-	prototype	186801	186804		4	1964 -	300	428005			
+F	300/4.5 P Auto NKJ	LMIJ	5-	feet or m	304501	304502 - 304995			Jul 1964 -	300				
+F	300/4.5 P Auto NKJ	LMIJ	5-	feet/m, serial no with dot from 3151xx		304917 - 316214.		11714	-	300				
+F	300/4.5 P Auto NKJ	LMIJ	5-	Ai kit 53	326511	326520. - 330277.^		3767	- Dec 1969	300				
+F	300/4.5 H Auto NKJ	LMIJ	5-	Ai kit 53	404501?	404757 - 422058		17558	Jan 1969 - 1971	300				
+F	300/4.5 H Auto Nikon	LMIJ	5-/+		430001	430023 - 465982	466701	36701	1971 - Oct 1974	300				
+K	300/4.5	LMIJ	5+	rubber focus, Ai kit 52	480001	480116 - 503900		23900	Jan 1975 - 1977	300				
+Ai	300/4.5	LMIJ	5+		510001	510059 - 515453			1977 -	300				
+Ai	300/4.5	MIJ	5+			515930 - 543930		33930	- Dec 1981	300				
+Ai-S	300/4.5	MIJ	5+	focus to 3.5m	550001	550181 - 584206		34206	Nov 1981 - 1994?	300				
+K	300/4.5 H·C	LMIJ	5+	prototype		173102		1	-	300				
+K	300/4.5 Nikkor*ED	LMIJ	5+	Ai kit 54	173101	173111 - 173998		898	Mar 1977 -	300				
+Ai	300/4.5 Nikkor*ED	LMIJ	5+		190001	190006 - 190446	190968?	968	- Jan 1979	300				
+Ai	300/4.5 Nikkor*ED IF	MIJ	5+	f22, 7 blades, narrow tripod collar	200001	200008 - 208080		8080	Aug 1978 - Dec 1981	300				
+Ai-S	300/4.5 Nikkor*ED IF	MIJ	5+	f32, 9 blades, wide tripod collar	210001	210058 - 238835		28835	Dec 1981 - 1999	300				
+AF	300/4 IF-ED	Japan	5+		200001	200821 - 268141		68141	Jun 1987 - 2000	300				
+AF-S	300/4 D IF-ED	Japan	5+	black or grey	200001	200382 - 216026		16026	Aug 2000 - 2005	300				
+AF-S	300/4 D IF-ED	Japan	5+	2006 serial no	300001	300049 - 338673	>	38673	2006 - >	300				
+AF-S	300/4 E PF IF-ED VR	China	4+		200001	201152 - 226926^		26926	Jan 2015 -	300				
+F	300/2.8 Nikkor-H	LMIJ	0	Schott ED, preset	603011	603019 - 603068	603082	72	Jan 1972 -	300				
+K	300/2.8 Nikkor*ED	LMIJ	0	Nikon ED, preset, multicoated	604011	604015 - 604080	604088	78	Oct 1975 -	300				
+Ai	300/2.8 Nikkor*ED IF	MIJ	5+		605101	605108 - 607644		2544	Nov 1977 - Jan 1982	300				
+Ai-S	300/2.8 Nikkor*ED IF	MIJ	5+	focus to 4m	609001	609032 - 614676	614751	5751	Jan 1982 - Oct 1985	300				
+Ai-S	300/2.8 IF-ED New	MIJ	5+	focus to 3m, new cosmetics	620001	620285 - 627680		7680	Mar 1986 - Dec 2005	300				
+AF	300/2.8 IF-ED	Japan	5-	prototype		104764		1	1986 -	300				
+AF	300/2.8 IF-ED	Japan	5+	twist focus lock, short tripod foot	200001	200007 - 201624	201860	1860	Nov 1986 - Jul 1987	300				
+AF	300/2.8 IF-ED New	Japan	5+	early series	201861	201863 - 201872		12	Nov 1988 -	300				
+AF	300/2.8 IF-ED New	Japan	5+	slide aperture lock, new M/A & preset ring	300001	300009^ - 312806		12806	Nov 1988 - 2005	300				
+AF-I	300/2.8 D IF-ED	Japan	5+	A-MA-M switch	200001	200106 - 206249		6249	Sep 1992 - Apr 1996	300				
+AF-S	300/2.8 D IF-ED	Japan	5+	MA-M-A switch, black or grey	200001	200008 - 208980		8980	Jul 1996 - Feb 2001	300				
+AF-S	300/2.8 D IF-ED II	Japan	5+	MA-M-A switch, black or grey	200001	200092 - 205890		5890	Feb 2001 - Sep 2004	300				
+AF-S	300/2.8 G IF-ED VR	Japan	5+	MA-M switch, meniscus protective lens	200001	200031 - 201853		1853	Sep 2004 - 2005	300				
+AF-S	300/2.8 G IF-ED VR	Japan	5+	2006 serial no	300001	300014 - 308986		8986	2006 - 2009	300				
+AF-S	300/2.8 G IF-ED VR II	Japan	5+	AM-MA-M switch, VRII, gold "VR"	200001	200047 - 214451	>	14451	Dec 2009 - >	300				
+Ai-S	300/2 Nikkor*ED IF	MIJ	5+	fastest 300mm ever	182121	182130 - 182561		441	Jun 1983 - 1985?	300				
+Ai-S	300/2 IF-ED	Japan		Tochigi Nikon T2.2	200101	200108 - 200123		23	Feb 2003 - 2004	300				
+														
+400mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	focus unit	-	5-	no markings, Won't fit Ai camera	1	1月6日	-	6	Aug 1964 -	400	55162			
+F	focus unit	Japan	5-	Nikon F JAPAN No.56xxx		56420 - 56503			1965 -	400				
+F	focus unit	Japan	5-	NIKKOR JAPAN No.5xxxx		56557 - 58197		1778	-	400				
+F	focus unit	Japan	5-/+	Nikon JAPAN 59xxxx	590001	590065 - 592268		2268	1971 - 1974	400				
+Bronica	focus unit	Japan	-	NIKKOR JAPAN No.14xxx, for Bronica 6x6		14653		1	-	400				
+Bronica	focus unit	Japan	-	Nikon JAPAN No 25xxx, for Bronica 6x6		25062 - 26036		975	-	400				
+K	AU-1 focus unit	MIJ	5+	Nikon AU-1 MIJ 173xxx white	173111?	173137 - 17362x			1974 -	400				
+K	AU-1 focus unit	MIJ	5+	Nikon AU-1 17xxxx, MIJ black		173845 - 174256		1146	- Dec 1977	400				
+F	400/4.5 Q Auto NKJ	LMIJ	-	need focus unit	400111	400113 - 401423		1313	Aug 1964 - 1971	400				
+F	400/4.5 Q Auto Nikon	LMIJ	-		410001	410002 - 410500	410541	541	1971 - 1976	400				
+C	400/4.5 Q·C Auto	LMIJ	-	multicoated	410801	410826 - 411160		360	Jun 1976 - 1977	400				
+F	400/5.6 P Auto	LMIJ	5+	prototype, first ED Nikkor	256021	256022		2	-	400				
+C	400/5.6 P·C Auto	LMIJ	5+	multicoated, Ai kit 55	256031	256155 - 257442		1412	Feb 1973 - Sep 1975	400				
+K	400/5.6 Nikkor*ED	LMIJ	5+	Ai kit 55	260001	260003 - 261160	261177	1177	Sep 1975 - 1977	400				
+Ai	400/5.6 Nikkor*ED	LMIJ	5+		261178	261190 - 261634		457	1977 -	400				
+Ai	400/5.6 Nikkor*ED	LMIJ	5+		270001	270055^ - 270398		398	- Jun 1983	400				
+Ai	400/5.6 Nikkor*ED IF	MIJ	5+	narrow tripod collar	280001	280051 - 282791		2791	Aug 1978 - Jan 1982	400				
+Ai-S	400/5.6 Nikkor*ED IF	MIJ	5+	wide tripod collar	287601	287674 - 296498		8898	Feb 1982 - Aug 2002	400				
+K	400/3.5 Nikkor*ED IF	LMIJ	5+	fastest 400mm in 1976	175121	175131 - 175191		71	Apr 1976 - 1977	400				
+Ai	400/3.5 Nikkor*ED IF	MIJ	5+		176091	176096 - 179840		3750	1977 - Feb 1982	400				
+Ai-S	400/3.5 Nikkor*ED IF	MIJ	5+		181501	181519 - 189575		8075	Jan 1982 - 2005	400				
+Ai-S	400/2.8 Nikkor*ED IF	MIJ	5+	prototype		102xxx		1	1984 -	400				
+Ai-S	400/2.8 IF-ED	MIJ	5+		200001	200017 - 202664		2664	Dec 1985 - 2002	400				
+AF-I	400/2.8 D IF-ED	Japan	5+	A-MA-M switch	200001	200044 - 201542		1542	Jul 1994 - Jan 1998	400				
+AF-S	400/2.8 D IF-ED	Japan	5+	MA-M-A switch, black or grey, carbon fibre body	200001	200066 - 202062		2062	Jan 1998 - Apr 2001	400				
+AF-S	400/2.8 D IF-ED II	Japan	5+	MA-M-A switch, black or grey	200001	200043 - 201982		1982	Jun 2001 - 2005	400				
+AF-S	400/2.8 D IF-ED II	Japan	5+	2006 serial no	300001	300018 - 300428		428	2006 - 2007	400				
+AF-S	400/2.8 G IF-ED VR	Japan	5+	AM-MA-M switch, meniscus protective lens	200001	200135^ - 207394	>	7394	Aug 2007 - >	400				
+AF-S	400/2.8 E FL ED VR	Japan	5+		200001	201179 - 203670	>	3670	May 2014 - >	400				
+														
+500mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+Ai-P	500/4 P IF-ED	Japan	5+		200001	200053 - 207509		7509	Apr 1988 - 2005	500	23172			
+AF-I	500/4 D IF-ED	Japan	5+	A-MA-M switch	200001	200022 - 200903		903	Nov 1994 - Jul 1997	500				
+AF-S	500/4 D IF-ED	Japan	5+	MA-M-A switch, black or grey	200001	200002 - 202404		2404	Jun 1997 - Apr 2001	500				
+AF-S	500/4 D IF-ED II	Japan	5+	MA-M-A switch, black or grey	200001	200141 - 201361		1361	Jun 2001 -	500				
+AF-S	500/4 D IF-ED II	Japan	5+		300001	300002 - 300082		82	2005 - 2005	500				
+AF-S	500/4 D IF-ED II	Japan	5+	2006 serial no	400001	400001 - 400470		470	2006 - 2007	500				
+AF-S	500/4 G IF-ED VR	Japan	5+	AM-MA-M switch, meniscus protective lens	200001	200005 - 208787	>	8787	Aug 2007 - >	500				
+AF-S	500/4 E FL ED VR	Japan	5+		200001	201656	>	1656	Jul 2015 - >	500				
+														
+600mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	600/5.6 P Auto NKJ	LMIJ	-	need focus unit	600111	600111 - 601258		1148	Aug 1964 - 1971	600	34697			
+F	600/5.6 P Auto Nikon	LMIJ	-		610001	610010 - 610754		754	1971 - 1974	600				
+C	600/5.6 P·C Auto	LMIJ	-	multicoated	611001	611034 - 612005		1005	Jan 1974 -	600				
+K	600/5.6 Nikkor*ED	LMIJ	-		650001	650011 - 650181		181	Jul 1975 - Sep 1977	600				
+K	600/5.6 Nikkor*ED IF	LMIJ	5+	first IF Nikkor, with 400/3.5	176011	176033		23	May 1976 - 1977	600				
+Ai	600/5.6 Nikkor*ED IF	MIJ	5+		176091	176100 - 177603		1513	1977 - Apr 1982	600				
+Ai-S	600/5.6 Nikkor*ED IF	MIJ	5+	focus to 5.5m	178501	178501 - 179635	179647	1147	Mar 1982 - Oct 1985	600				
+Ai-S	600/5.6 IF-ED New	MIJ	5+	focus to 5m, new cosmetics	200001	200037 - 202758		2758	Mar 1986 - 2005	600				
+Ai	600/4 Nikkor*ED IF	MIJ	5+		176121	176208 - 177608		1488	Jun 1977 - Mar 1982	600				
+Ai-S	600/4 Nikkor*ED IF	MIJ	5+		178001	178003 - 178940	178982	982	Apr 1982 - Oct 1985	600				
+Ai-S	600/4 IF-ED New	MIJ	5+	new cosmetics	200001	200015 - 202626		2626	Mar 1986 - 1998	600				
+AF-I	600/4 D IF-ED	Japan	5+	A-MA-M switch	200001	200130^ - 201237		1237	Sep 1992 - Jul 1996	600				
+AF-S	600/4 D IF-ED	Japan	5+	MA-M-A switch, black or grey	200001	200004 - 202411		2411	Jul 1996 - Apr 2001	600				
+AF-S	600/4 D IF-ED II	Japan	5+	MA-M-A switch, black or grey	200001	200086 - 201708		1708	Jun 2001 - 2005	600				
+AF-S	600/4 D IF-ED II	Japan	5+	2006 serial no	300001	300003 - 300596		596	2006 - 2007	600				
+AF-S	600/4 G IF-ED VR	Japan	5+	AM-MA-M switch, meniscus protective lens	200001	200019 - 210884^	>	10884	Aug 2007 - >	600				
+AF-S	600/4 E FL ED VR	Japan	5+		200001	202524 - 204236^	>	4236	Jul 2015 - >	600				
+														
+800-1200mm top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	800/8 P Auto NKJ	LMIJ	-	small rear lens, narrow barrel, no aperture ring	800111	800114 - 800232			Aug 1964 -	800-1200	9741			
+F	800/8 P Auto NKJ	LMIJ	-	large rear lens, wide barrel, aperture ring		800214 - 800552		442	-1971	800-1200				
+F	800/8 P Auto Nikon	LMIJ	-		810001	810014 - 810343		343	1971 - Nov 1973	800-1200				
+C	800/8 P·C Auto	LMIJ	-	multicoated	810601	810604 - 810823^			Aug 1974 - Nov 1977	800-1200				
+C	800/8 P·C	LMIJ	-	not marked "Auto"		811114 - 811220^		620	-	800-1200				
+K	800/8 Nikkor*ED	LMIJ	-		850001	850017 - 850078		78	Jul 1975 - Mar 1977	800-1200				
+Ai	800/8 Nikkor*ED IF	MIJ	5+		178041	178068 - 178315		275	Dec 1978 - Dec 1981	800-1200				
+Ai-S	800/8 Nikkor*ED IF	MIJ	5+		179001	179001 - 179773	179857	857	Dec 1981 - Feb 1987	800-1200				
+Ai-S	800/5.6 IF-ED	MIJ	5+		200001	200019 - 202972		2972	Sep 1986 - Dec 2005	800-1200				
+AF-S	800/5.6 E FL ED VR	Japan	5+		200001	200027 - 202791^	>	2791	Jan 2013 - >	800-1200				
+F	1200/11 P NKJ	LMIJ	-	small rear lens, no aperture ring, prototype?	120011	-		-	Aug 1964 -	800-1200				
+F	1200/11 P NKJ	LMIJ	-	large rear lens		120029 - 120193		165	-1966	800-1200				
+F	1200/11 P NKJ	LMIJ	-		121001?	121014 - 121073.		73	1966 - 1971	800-1200				
+F	1200/11 P Nikon	LMIJ	-		131001	131012 - 131146	131148	148	1971 - 1973	800-1200				
+C	1200/11 P·C	LMIJ	-	multicoated	131401	131422 - 131759		359	Sep 1974 - Nov 1977	800-1200				
+K	1200/11 Nikkor*ED	LMIJ	-		150001	150001 - 150092		92	Jul 1975 - Dec 1977	800-1200				
+Ai	1200/11 Nikkor*ED IF	MIJ	5+		178051	178103 - 178210		160	Jan 1979 - Mar 1982	800-1200				
+Ai-S	1200/11 Nikkor*ED IF	MIJ	5+		179001	179014 - 179122	179366	366	Feb 1982 - Jun 1985	800-1200				
+														
+Reflex top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	500/5 Reflex NKJ		0	prototype, focus grip with large scallops	171001	171002		2	1961 -	Reflex	124404			
+F	500/5 Reflex NKJ	LMIJ	0	lens data on slanting ring	171011	171011 - 171721		711	Sep 1961 - 1963	Reflex				
+F	500/5 Reflex NKJ	LMIJ	0	lens data on flat ring	181001	181003 - 181574			1963 -	Reflex				
+F	500/5 Reflex NKJ	LMIJ	0	2 holes in data ring, serial no with dot		181601. - 182640			-1966	Reflex				
+F	500/5 Reflex NKJ	LMIJ	0	in mm, serial no dot rare after 1827xx		182734. - 183294.	183318	2318	1966 - 1968	Reflex				
+F	500/8 Reflex NKJ	LMIJ	0		501001	501035 - 504657		3657	Dec 1968 - 1971	Reflex				
+F	500/8 Reflex Nikon	LMIJ	0		510001	510083 - 522439	522806	12806	1971 - Apr 1974	Reflex				
+C	500/8 Reflex·C	LMIJ	0	multicoated	530001	530297 - 549537			Apr 1974 -	Reflex				
+C	500/8 Reflex·C	MIJ	0			550039 - 585631		55631	- Oct 1983	Reflex				
+Ai*	500/8 Reflex	MIJ	5+		183201	183577 - 215262		32062	Oct 1983 - Dec 2005	Reflex				
+F	1000/6.3 Reflex NKJ	LMIJ	5-	F-mount version	631001	631002 - 631056	631056	56	Jun 1959 - Sep 1965	Reflex				
+S	1000/6.3 Reflex NKJ	LMIJ	-	black rangefinder version	100631	100631 - 100640			Jun 1959 -	Reflex				
+S	1000/6.3 Reflex NKJ	LMIJ	-	grey rangefinder version		100668 - 100680		50	-	Reflex				
+F	1000/11 Reflex NKJ	LMIJ	0	serial no with dot from 111795.	111001	111036 - 112169.		1169	Oct 1966 - 1972	Reflex				
+F	1000/11 Reflex Nikon	LMIJ	0	no serial no dot	130001	130114 - 130854	130886	886	1972 - 1974	Reflex				
+C	1000/11 Reflex·C	LMIJ	0	multicoated	140001	140209 - 141522^		1522	Aug 1974 - Jun 1976	Reflex				
+K	1000/11 Reflex	LMIJ	5+	wont fit F5, F6	142361	142417 - 143000	143000	640	Aug 1976 - 1977	Reflex				
+Ai	1000/11 Reflex	MIJ	5+	fits Ai camera	143001	143038 - 154263		11263	1977 -	Reflex				
+Ai	1000/11 Reflex	MIJ	5+		200001	200002 - 201262		1262	- Dec 2005	Reflex				
+F	2000/11 Reflex NKJ	LMIJ	5+	longest SLR lens	200111	200111 - 200151		41	Nov 1971 - 1973	Reflex				
+C	2000/11 Reflex·C	LMIJ	5+	multicoated	200211	200215 - 200519		309	1973 - 1977	Reflex				
+Ai	2000/11 Reflex	MIJ	5+	fits Ai camera	201001?	201015 - 201019		19	1977 -	Reflex				
+														
+Zoom 14..24-xx top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+AF-S	14-24/2.8 G IF-ED	Japan	4+		200001	200271 - 583931	>	383931	Aug 2007 - >	Zoom 14..24-xx	2609685			
+AF-S	16-35/4 G IF-ED VR	Japan	4+		200001	201103 - 318193	>	118193	Jan 2010 - >	Zoom 14..24-xx				
+AF-S	17-35/2.8 D IF-ED	Japan	5+	745g	200001	200388 - 306273		106273	Jun 1999 - 2005	Zoom 14..24-xx				
+AF-S	17-35/2.8 D IF-ED	Japan	5+	730g, 2006 series	400001	400485 - 440961	>	40961	2006 - >	Zoom 14..24-xx				
+AF	18-35/3.5-4.5 D IF-ED	Japan	4+		200001	200439 - 300370		100370	Aug 2000 -	Zoom 14..24-xx				
+AF	18-35/3.5-4.5 D IF-ED	Japan	4+		500001	503798 - 507567	>	7567	2008? - >	Zoom 14..24-xx				
+AF-S	18-35/3.5-4.5 G IF-ED	China	4+		200001	201625 - 239032^	>	39032	Jan 2013 - >	Zoom 14..24-xx				
+AF-S	18-35/3.5-4.5 G IF-ED	China	4+	for USA	600001	601800 - 603751	>	3751	Jan 2013 - >	Zoom 14..24-xx				
+AF	20-35/2.8 D IF	Japan	4+	early lenses weigh 640g, later 585g	200001	200533 - 286258		86258	Sep 1993 - Apr 2001	Zoom 14..24-xx				
+Ai	25-50/4 Zoom	MIJ	5+	prototype		104693		1	-	Zoom 14..24-xx				
+Ai	25-50/4 Zoom	MIJ	5+	f22 white	178041	178172 - 189473		11433	Apr 1979 - Dec 1981	Zoom 14..24-xx				
+Ai-S	25-50/4 Zoom	MIJ	5+	f22 orange	201001	201009 - 217658	217906	16906	Nov 1981 - Mar 1985	Zoom 14..24-xx				
+AF	24-50/3.3-4.5	Japan	3+	focus scale in window	200001	201984 - 281308		81308	Oct 1987 - Dec 1995	Zoom 14..24-xx				
+AF	24-50/3.3-4.5 D	Japan	3+	focus scale on barrel	500001	500825 - 524847		24847	Dec 1995 - 2005	Zoom 14..24-xx				
+AF	24-85/2.8-4 D IF	Japan	4+	72mm filter, 1:2 macro	200001	200145 - 306721		106721	Aug 2000 - 2005	Zoom 14..24-xx				
+AF	24-85/2.8-4 D IF	Japan	4+	2006 serial no	500001	500118 - 594321	>	94321	2006 - >	Zoom 14..24-xx				
+AF-S	24-85/3.5-4.5 G IF-ED	Japan	4+	67mm filter	2000001	2000113 - 2056715		56715	Feb 2002 - 2004	Zoom 14..24-xx				
+AF-S	24-85/3.5-4.5 G IF-ED	Thailand	4+			2071441 - 2119984		48544	2005 - 2006	Zoom 14..24-xx				
+AF-S	24-85/3.5-4.5 G IF-ED VR	China	4+	72mm filter	2000001	2000205 - 2190703^	>	190703	Jun 2012 - >	Zoom 14..24-xx				
+AF-S	24-85/3.5-4.5 G IF-ED VR	China	4+	for USA	6000001	6000118 - 6055673	>	55673	Jun 2012 - >	Zoom 14..24-xx				
+AF	24-120/3.5-5.6 D IF	Japan	4+		200001	202465 - 455515		255515	Oct 1996 - Nov 2002	Zoom 14..24-xx				
+AF-S	24-120/3.5-5.6 G IF-ED VR	Japan	4+		200001	200001 - 322589		122589	Mar 2003 - 2005	Zoom 14..24-xx				
+AF-S	24-120/3.5-5.6 G IF-ED VR	Japan	4+	2006 serial no	400001	401997 - 432307		32307	2006 - 2007	Zoom 14..24-xx				
+AF-S	24-120/3.5-5.6 G IF-ED VR	Thailand	4+		5000001	5006218 - 5074099		74099	2008 - Jul 2010	Zoom 14..24-xx				
+AF-S	24-120/4 G IF-ED VR	Thailand	4+		62000001	62002958 - 62490885†	>	490885	Aug 2010 - >	Zoom 14..24-xx				
+AF-S	24-120/4 G IF-ED VR	Thailand	4+	for USA	66000001	66001088 - 66060782	>	60782	Aug 2010 - >	Zoom 14..24-xx				
+														
+Mid Zoom Professional top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	3.5-8.50/2.8-4 Auto Wide-Zoom	LMIJ	6-	prototype, focus in feet	352801	352803			May 1961 - May 1961	Mid Zoom Professional	1660481			
+F	3.5-8.50/2.8-4 Auto Wide-Zoom	LMIJ	6-	prototype, black barrel, wider focus ring in m		3528xx?		0	1961 -	Mid Zoom Professional				
+Ai	35-70/3.5 Zoom	LMIJ	5+	prototype		104431		1	-	Mid Zoom Professional				
+Ai	35-70/3.5 Zoom	LMIJ	5+	72mm filter	760701	760925 - 761479			Sep 1977 -	Mid Zoom Professional				
+Ai	35-70/3.5 Zoom	MIJ	5+	rectangular rear shield, square focus grip		761719 - 780939			-	Mid Zoom Professional				
+Ai	35-70/3.5 Zoom	MIJ	5+	rectangular rear shield, rectangular focus grip		778357 - 796096			-	Mid Zoom Professional				
+Ai	35-70/3.5 Zoom	MIJ	5+	circular rear protector		795469 - 809206		48506	- Oct 1981	Mid Zoom Professional				
+Ai-S	35-70/3.5 Zoom	MIJ	5+	62mm filter	821001	821064 - 831264^		10264	Sep 1981 -	Mid Zoom Professional				
+Ai-S	35-70/3.5 Zoom	MIJ	5+	no serial from 831xxx - 931xxx!	921001?	931187 - 979534	979539	58539	- May 1986	Mid Zoom Professional				
+Ai-S	35-70/3.5 Zoom NASA	MIJ	5+	metal focus and zoom rings, feet only	1001	1001 - 1018		18	1985 - 1985	Mid Zoom Professional				
+AF	35-70/2.8	Japan	4+	twist aperture lock	200001	203043 - 329575		129575	Oct 1987 - Sep 1992	Mid Zoom Professional				
+AF	35-70/2.8 D	Japan	4+	slide aperture lock	400001	403077 - 420572		20572	Sep 1992 - 1993	Mid Zoom Professional				
+AF	35-70/2.8 D	Japan	4+	upgraded D chip	600001	601497 - 837839^		237839	1993 - 2005	Mid Zoom Professional				
+AF-S	28-70/2.8 D IF-ED	Japan	5+	black or grey	200001	200261 - 315246		115246	Feb 1999 - 2005	Mid Zoom Professional				
+AF-S	28-70/2.8 D IF-ED	Japan	5+	2006 serial no	400001	400862 - 415494		15494	2006 - 2007	Mid Zoom Professional				
+AF-S	24-70/2.8 G IF-ED	Japan	4+		200001	200049 - 1145601	>	945601	Aug 2007 - >	Mid Zoom Professional				
+AF-S	24-70/2.8 E ED VR	Japan	4+		2000001	2011030 - 2078826	>	78826	Aug 2015 - >	Mid Zoom Professional				
+														
+Zoom 28-xx top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+K,Ai	28-45/4.5 Zoom	LMIJ	5+	1st wide zoom, Ai kit 77,78,79	174011	174035^ - 190085		16075	Sep 1975 - Jun 1977	Zoom 28-xx	4638101			
+Ai	28-45/4.5 Zoom	LMIJ	5+		210001	210015 - 213671		3671	- Aug 1978	Zoom 28-xx				
+Ai-S	28-50/3.5 Zoom	MIJ	5+		183021	183084 - 204582		21562	Jan 1984 - 1985?	Zoom 28-xx				
+AF	28-70/3.5-4.5	Japan	3+	first hybrid aspheric Nikkor	2000001	2000104 - 2094424		94424	Jun 1991 - Sep 1992	Zoom 28-xx				
+AF	28-70/3.5-4.5 D	Japan	3+		3000001	3001358 - 3115215		115215	Sep 1992 -	Zoom 28-xx				
+AF	28-70/3.5-4.5 D	Japan	3+	upgraded D chip	3200001	3208305 - 3324226^		124226	-1999	Zoom 28-xx				
+AF	28-80/3.5-5.6 D	Thailand	3+	plastic mount, narrow focus	200001	201292 - 467134		267134	Sep 1995 - 1999	Zoom 28-xx				
+AF	28-80/3.5-5.6 D New	Thailand	3+	plastic mount, wide focus	2000001	2006255 - 2608597		608597	Jan 1999 - Apr 2001	Zoom 28-xx				
+AF	28-80/3.3-5.6 G	Thailand	3+	plastic mount, black or silver	2000001	2022680 - 3711736		1711736	Feb 2001 - 2005	Zoom 28-xx				
+AF	28-100/3.5-5.6 G	Thailand	3+	plastic mount	2000001	2004629 - 2297698		297698	Feb 2002 - 2005	Zoom 28-xx				
+Ai-S	28-85/3.5-4.5 Zoom	MIJ	3+		200001	200136 - 291060		91060	Dec 1985 -	Zoom 28-xx				
+Ai-S	28-85/3.5-4.5 Zoom	MIJ	3+		400001	400417 - 402764		2764	- Dec 2005	Zoom 28-xx				
+AF	28-85/3.5-4.5	Japan	4+	plastic focus, twist aperture lock	200001	204644 - 370089		170089	Sep 1986 - Aug 1990	Zoom 28-xx				
+AF	28-85/3.5-4.5 New	Japan	4+	rubber focus, slide aperture lock	3000001	3004245 - 3217956		217956	Sep 1990 - 1999	Zoom 28-xx				
+AF	28-105/3.5-4.5 D IF	Japan	4+		200001	200798 - 600174		400174	Dec 1998 - 2005	Zoom 28-xx				
+AF	28-200/3.5-5.6 D IF	Japan	4+	72mm filter, metal mount	200001	200603 - 305325		105325	Feb 1998 -	Zoom 28-xx				
+AF	28-200/3.5-5.6 D IF	China	4+		400001	401171 - 427276		27276	- Mar 2003	Zoom 28-xx				
+AF	28-200/3.5-5.6 G IF-ED	Japan	3+	62mm filter, plastic mount, black or silver	2000001	2000261 - 2007274		7274	Mar 2003 - 2004	Zoom 28-xx				
+AF	28-200/3.5-5.6 G IF-ED	Thailand	3+			2008147 - 2062225		54079	2004 - 2005	Zoom 28-xx				
+AF-S	28-300/3.5-5.6 G IF-ED VR	Thailand	4+		52000001	52002214 - 52210100	>	210100	Aug 2010 - >	Zoom 28-xx				
+AF-S	28-300/3.5-5.6 G IF-ED VR	Thailand	4+	for USA	56000001	56000038 - 56091666	>	91666	Aug 2010 - >	Zoom 28-xx				
+														
+Zoom 35-xx top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	43-86/3.5 Zoom Auto NKJ			prototype	438601	438601 - 438603		3	-	Zoom 35-xx	6781570			
+F	43-86/3.5 Zoom Auto NKJ	LMIJ	3-	f=43~86mm, m/feet, Ai kit 68,69,70	438611	438611 - 438992			Feb 1963 -	Zoom 35-xx				
+F	43-86/3.5 Zoom Auto NKJ	LMIJ	3-	f=43–f=86mm, m/feet		439298 - 439868			-1966	Zoom 35-xx				
+F	43-86/3.5 Zoom Auto NKJ	LMIJ	3-	engraving error "1" appended to serial no		439995 - 440285			-	Zoom 35-xx				
+F	43-86/3.5 Zoom Auto NKJ	LMIJ	3-	f=43–f=86mm, m/feet, some feet/m		440400 - 445406			-	Zoom 35-xx				
+F	43-86/3.5 Zoom Auto NKJ	LMIJ	3-	f=43~f=86mm, feet/m or m/feet		445551 - 451835			1966 -	Zoom 35-xx				
+F	43-86/3.5 Zoom Auto NKJ	LMIJ	3-	f=43~f=86mm, feet/m		452556 - 453862			-1971	Zoom 35-xx				
+F	43-86/3.5 Zoom Auto NKJ	LMIJ	5-			454536^ - 490952		52342	-	Zoom 35-xx				
+F	43-86/3.5 Zoom Auto Nikon	LMIJ	5-		500001?	500277 - 554213	554261	54261	1971 - 1974	Zoom 35-xx				
+C	43-86/3.5 Zoom·C Auto	LMIJ	5+	f=43~86mm, multicoated	570001	570025 - 625480		55480	1974 - Mar 1976	Zoom 35-xx				
+K	43-86/3.5 Zoom	LMIJ	5+	Ai kit 65,66,67	774071	774124^ - 805976		31906	Nov 1975 - 1977	Zoom 35-xx				
+Ai	43-86/3.5 Zoom	LMIJ	5+	6 DOF lines	810001	810177 - 838192			1977 -	Zoom 35-xx				
+Ai	43-86/3.5 Zoom	MIJ	5+	6 DOF lines		840283 - 933021			-	Zoom 35-xx				
+Ai	43-86/3.5 Zoom	MIJ	3+	3 DOF lines, simplified rear shield		940262 - 1048614		238614	- Mar 1982	Zoom 35-xx				
+E	36-72/3.5 Series E Zoom	MIJ	5+		1800701	1801051 - 2020101		219401	Sep 1981 - 1985	Zoom 35-xx				
+Ai-S	35-70/3.5-4.8 Zoom	MIJ	3+	by Cosina for FM10	5000001?	5033546 - 6085197	>	1085197	- >	Zoom 35-xx				
+Ai-S	35-70/3.3-4.5 Zoom	MIJ	3+		2000001	2000833 - 2284199		284199	Oct 1984 -	Zoom 35-xx				
+Ai-S	35-70/3.3-4.5 Zoom	MIJ	3+		3000001	3002838 - 3020184		20184	-2005	Zoom 35-xx				
+AF	35-70/3.3-4.5	Japan	3+	plastic focus, twist aperture lock	2000001	2003292 - 22267xx		226700	Sep 1986 -	Zoom 35-xx				
+AF	35-70/3.3-4.5	Japan	3+		3000001	3037654 - 3551364		551364	- Oct 1989	Zoom 35-xx				
+AF	35-70/3.3-4.5 New	Japan	3+	rubber focus, slide aperture lock	4000001	4005023 - 4890491		890491	Oct 1989 -	Zoom 35-xx				
+AF	35-70/3.3-4.5 New	Thailand	3+		5000001	5001400 - 5145524		145524	-1994	Zoom 35-xx				
+AF	35-80/4-5.6 D	Japan	3+	metal mount, rubber focus grip	6000001	6001850 - 6074893		74893	Jan 1994 -	Zoom 35-xx				
+AF	35-80/4-5.6 D	Thailand	3+		3000001	3001950 - 3617130		617130	-	Zoom 35-xx				
+AF	35-80/4-5.6 D New	Thailand	3+	plastic mount, narrow plastic focus ring	4000001	4012095 - 4971299		971299	Jan 1995 - 1999	Zoom 35-xx				
+Ai-S	35-105/3.5-4.5 Zoom	MIJ	3+		1820701	1821364 - 2192260		371560	Jan 1983 - Dec 2005	Zoom 35-xx				
+AF	35-105/3.5-4.5	Japan	4+	plastic focus, twist aperture lock	2000001	2010058 - 2347178		347178	Sep 1986 - 1991	Zoom 35-xx				
+AF	35-105/3.5-4.5 New	Japan	4+	rubber focus, slide aperture lock	3000001	3000984 - 3065962^		65962	Jun 1991 - Dec 1994	Zoom 35-xx				
+AF	35-105/3.5-4.5 D IF	Japan	4+		4000001	4000177 - 4060927		60927	Dec 1994 - Jun 2001	Zoom 35-xx				
+Ai-S	35-135/3.5-4.5 Zoom	MIJ	4+		200001	201127 - 291801		91801	Oct 1984 - 1998	Zoom 35-xx				
+AF	35-135/3.5-4.5	Japan	4+	plastic focus, twist aperture lock	200001	207986 - 251412		51412	Sep 1986 - Sep 1988	Zoom 35-xx				
+AF	35-135/3.5-4.5 New	Japan	4+	rubber focus, slide aperture lock	300001	301205 - 530824		230824	Sep 1988 - 1998	Zoom 35-xx				
+Ai-S	35-200/3.5-4.5 Zoom	MIJ	5+		200001	200051 - 242918		42918	Dec 1985 - 2005	Zoom 35-xx				
+														
+Zoom 50-xx top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	50-300/4.5 Zoom Auto NKJ	LMIJ	5-	chrome rim, Ai kit 89,90,91	740101	740102 - 742180		2080	1967 - 1968	Zoom 50-xx	61062			
+F	50-300/4.5 Zoom Auto NKJ	LMIJ	5-	black rim	751001?	751224 - 757575		6575	1968 - 1971	Zoom 50-xx				
+F	50-300/4.5 Zoom Auto Nikon	LMIJ	5+		760001?	760019 - 765527	765700	5700	1971 - Oct 1975	Zoom 50-xx				
+K	50-300/4.5 Zoom	LMIJ	5+	Ai kit 86,87,88	770401	770529 - 773554		3154	Jun 1975 - 1977	Zoom 50-xx				
+Ai	50-300/4.5 Zoom	LMIJ	5+		780001	780013 - 780953		953	1977 - Mar 1979	Zoom 50-xx				
+Ai	50-300/4.5 Zoom*ED	LMIJ	5+	prototype		104031 - 104032		2	-	Zoom 50-xx				
+Ai	50-300/4.5 Zoom*ED	LMIJ	5+	f32 white	175111	175182 - 175667			Jun 1977 -	Zoom 50-xx				
+Ai	50-300/4.5 Zoom*ED	MIJ	5+			175797 - 179248		4138	- Feb 1982	Zoom 50-xx				
+Ai-S	50-300/4.5 Zoom*ED	MIJ	5+	f32 orange, wider tripod collar	183001	183042 - 189935		6935	Feb 1982 - 1999	Zoom 50-xx				
+Ai-S	50-135/3.5 Zoom	MIJ	4+		811001	811772 - 840842	842525	31525	Apr 1982 - Oct 1984	Zoom 50-xx				
+														
+Tele Zoom top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+E	75-150/3.5 Series E Zoom	MIJ	4+	black, thin metal rear lens protectors	1790801	1791079 - 1846100			May 1980 -	Tele Zoom	4661757			
+E	75-150/3.5 Series E Zoom	MIJ	4+	black, mount triggers PHi with FA, F501		1840405 - 1860019		69219	-	Tele Zoom				
+E	75-150/3.5 Series E Zoom	MIJ	4+	chrome ring	1890001	1890575 - 2023732		133732	May 1981 -	Tele Zoom				
+E	75-150/3.5 Series E Zoom	MIJ	4+	chrome ring	3000001	3000447 - 3062010		62010	-1985	Tele Zoom				
+E	70-210/4 Series E Zoom	MIJ	5+	MIJ white	1810801	1810815 - 1903997		93197	Dec 1981 -	Tele Zoom				
+E	70-210/4 Series E Zoom	MIJ	5+	from 201xxxx MIJ black	2000001	2000458 - 2091819		91819	-1985	Tele Zoom				
+AF	70-210/4	Japan	5+		200001	200362 - 299516		99516	Sep 1986 -	Tele Zoom				
+AF	70-210/4	Japan	5+		400001	400028 - 419896?	421310	21310	- Apr 1987	Tele Zoom				
+AF	70-210/4-5.6	Japan	4+	twist aperture lock	2000001	2004916 - 2588125		588125	Aug 1987 -	Tele Zoom				
+AF	70-210/4-5.6 D	Japan	4+	slide aperture lock, 6 digit serial	200001	200260 - 228400		28400	Jan 1993 -	Tele Zoom				
+AF	70-210/4-5.6 D	Japan	4+	7 digit no	3100001	3100257 - 3230857		130857	-	Tele Zoom				
+AF	70-210/4-5.6 D	Thailand	4+	7 digit no	3500001	3502678 - 3520727		20727	-1999	Tele Zoom				
+Ai-S	70-210/4.5-5.6 Zoom	MIJ	3+	by Cosina for FM10	2000001	2002886 - 2027540		27540	1995 - 2005	Tele Zoom				
+AF	80-200/4.5-5.6 D	Japan	4+	plastic mount	2000001	2002899 - 2119675		119675	Sep 1995 -	Tele Zoom				
+AF	80-200/4.5-5.6 D	China	4+		2500001	2502653 - 2580136		80136	-1999	Tele Zoom				
+AF	75-240/4.5-5.6 D	China	4+	plastic mount	200001	204516 - 299625		99625	Jan 1999 - 2000	Tele Zoom				
+Ai-S	100-300/5.6 Zoom	MIJ	4+		183051	183492 - 241250		58200	Jan 1984 - 1998	Tele Zoom				
+AF	75-300/4.5-5.6	Japan	4+		200001	201193 - 419904		219904	Feb 1989 - 1998	Tele Zoom				
+AF	70-300/4-5.6 D ED	Japan	3+		200001	200677 - 601408		401408	Mar 1998 - 2006	Tele Zoom				
+AF	70-300/4-5.6 D	Japan	3+	similar to 70-300 ED, for Japan	200001	200415 - 232474		32474	-	Tele Zoom				
+AF	70-300/4-5.6 D	Japan	3+		910001?	910224		224	-	Tele Zoom				
+AF	70-300/4-5.6 G	China	3+	plastic mount, black or silver	2000001	2004771 - 2415077		415077	Aug 2000 -	Tele Zoom				
+AF	70-300/4-5.6 G	China	3+		9000001	9001671 - 9691877	>	691877	2005 - >	Tele Zoom				
+AF-S	70-300/4.5-5.6 G IF-ED VR	Thailand	4+		2000001	2006089 - 3071598	>	1071598	Aug 2006 - >	Tele Zoom				
+AF-S	70-300/4.5-5.6 G IF-ED VR	Thailand	4+	USA	6000001	6017674 - 6042772	>	42772	2014? - Jul 2017	Tele Zoom				
+AF-P	70-300/4.5-5.6 E IF-ED VR	Thailand	4+		2000001	2004881 - 2014227†	>	14227	Jul 2017 - >	Tele Zoom				
+AF-P	70-300/4.5-5.6 E IF-ED VR	Thailand	4+		20100001	20103716	>	3716	Jul 2017 - >	Tele Zoom				
+AF-S	70-200/4 G IF-ED VR	Thailand	4+		82000001	82003057 - 82040030	>	40030	Oct 2012 - >	Tele Zoom				
+AF-S	70-200/4 G IF-ED VR	Thailand	4+	for USA	86000001	86000110 - 86004362	>	4362	Oct 2012 - >	Tele Zoom				
+														
+Tele Zoom Professional top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	8.5-250/4-4.5 Auto Tele-Zoom	LMIJ PAT PEND	3-	prototype, first Nikkor zoom	157901	157902		2	1959 -	Tele Zoom Professional	1943562			
+F	8.5-250/4-4.5 Auto Tele-Zoom	LMIJ PAT PEND	3-	2 ring	157911	157980 - 158216			Nov 1959 -	Tele Zoom Professional				
+F	8.5-250/4-4.5 Auto Tele-Zoom	LMIJ PATS PEND	3-	2 ring, modified ap.ring		158284 - 159402	159200?	1290	- Apr 1961	Tele Zoom Professional				
+F	8.5-250/4-4.5 Auto Tele-Zoom	LMIJ PATS PEND	3-	1 ring, serial no overlaps prev version	159201?	158586 - 159721			Aug 1961 -	Tele Zoom Professional				
+F	8.5-250/4-4.5 Auto Tele-Zoom	LMIJ	3-			159857 - 162089			-	Tele Zoom Professional				
+F	8.5-250/4-4.5 Auto Tele-Zoom	LMIJ	5-	serial no with dot from 16363x		162165 - 164175.		4975	-	Tele Zoom Professional				
+F	85-250/4-4.5 Auto Tele-Zoom	LMIJ	5-	in mm		174217. - 174652.	174661	445	- Apr 1969	Tele Zoom Professional				
+F	85-250/4 Zoom Auto NKJ	LMIJ	5-	black rim, feet or m, Ai kit 80,81,82	184711	184725 - 186216	186262	1552	Apr 1969 - Jan 1973	Tele Zoom Professional				
+F	80-200/4.5 Zoom Auto NKJ	LMIJ	5-	Ai kit 74,75,76	101911	101912 - 104171		2261	Dec 1969 - 1971	Tele Zoom Professional				
+F	80-200/4.5 Zoom Auto Nikon	LMIJ	5-		110001	110013 - 132245		22245	1971 - 1973	Tele Zoom Professional				
+C	80-200/4.5 Zoom·C Auto	LMIJ	5+	multicoated	140001	140015 - 191089	192626	52626	1973 - Mar 1975	Tele Zoom Professional				
+Ai	80-200/4.5 Zoom	LMIJ	5+	prototype, Ai converted	210000	210000		1	1975 -	Tele Zoom Professional				
+K	80-200/4.5 Zoom	LMIJ	5+	Ai kit 71,72,73	210001	210601 - 256066		46066	Feb 1975 - 1977	Tele Zoom Professional				
+Ai	80-200/4.5 Zoom	LMIJ	5+	round rear opening, dot index	270001	270075 - 284838		14838	1977 - Aug 1977	Tele Zoom Professional				
+Ai	80-200/4.5 Zoom New	MIJ	5+	rectangular rear cutout, dash index	760801	760985 - 913524		152724	Jul 1977 - Dec 1981	Tele Zoom Professional				
+Ai-S	80-200/4 Zoom	MIJ	5+		180081	180576 - 330114		150034	Aug 1981 - 1998	Tele Zoom Professional				
+Ai	80-200/2.8 Zoom*ED	MIJ	5+	2 ring, prototype?		-		-	1978 - 1978	Tele Zoom Professional				
+Ai-S	80-200/2.8 Zoom*ED	MIJ	5+	1 ring, tripod knob on right	181091	181103 - 182202			Aug 1982 -	Tele Zoom Professional				
+Ai-S	80-200/2.8 Zoom*ED	MIJ	5+	1 ring, tripod knob on left		181999 - 182614	182629	1539	- May 1985	Tele Zoom Professional				
+AF	80-200/2.8 ED	Japan	5+	1 ring, 3 position focus limiter	200001	200887 - 387964		187964	Nov 1987 - Sep 1992	Tele Zoom Professional				
+AF	80-200/2.8 D ED	Japan	5+	1 ring, full/limit switch	400001	400490 - 563085		163085	Sep 1992 - 1997	Tele Zoom Professional				
+AF	80-200/2.8 D ED New	Japan	5+	2 ring, tripod foot	700001	700093 - 929478^		229478	Jan 1997 - 2005	Tele Zoom Professional				
+AF	80-200/2.8 D ED New	Japan	5+	2006 serial no	1000001	1001372 - 1092845^	>	92845	2006 - >	Tele Zoom Professional				
+AF-S	80-200/2.8 D IF-ED	Japan	5+	MA-M switch, black or grey	200001	200196 - 261492		61492	Dec 1998 - 2003	Tele Zoom Professional				
+AF-S	70-200/2.8 G IF-ED VR	Japan	5+	MA-M switch, black or grey, red "VR"	200001	200016 - 472416		272416	Feb 2003 - Jul 2009	Tele Zoom Professional				
+AF-S	70-200/2.8 G IF-ED VR II	Japan	5+	AM-MA-M switch, Nano Coat, VRII, gold "VR"	20000001	20000955 - 20472239	>	472239	Jul 2009 - >	Tele Zoom Professional				
+AF-S	70-200/2.8 E FL ED VR	Japan	5+		200001	200930 - 213445	>	13445	Oct 2016 - >	Tele Zoom Professional				
+														
+Super Tele Zoom top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+AF	80-400/4.5-5.6 D ED VR	Japan	5+	first VR lens	200001	200906 - 316842		116842	Feb 2000 - 2005	Super Tele Zoom	394996			
+AF	80-400/4.5-5.6 D ED VR	Japan	5+	2006 serial no	400001	400812 - 495120		95120	2006 - 2013	Super Tele Zoom				
+AF-S	80-400/4.5-5.6 G IF-ED VR	Japan	4+		200001	202205 - 257113	>	57113	Mar 2013 - >	Super Tele Zoom				
+Ai-S	200-400/4 Zoom*ED	MIJ	5+		182121	182132 - 182615		495	Jun 1983 - 1988	Super Tele Zoom				
+AF-S	200-400/4 G IF-ED VR	Japan	5+	MA-M switch, red "VR"	200001	200034 - 203281		3281	Jul 2003 - 2005	Super Tele Zoom				
+AF-S	200-400/4 G IF-ED VR	Japan	5+	2006 serial no	300001	300115 - 310620		10620	2006 - 2010	Super Tele Zoom				
+AF-S	200-400/4 G IF-ED VR II	Japan	5+	AM-MA-M switch, Nano Coat, VRII, gold "VR"	200001	200023 - 211667	>	11667	Apr 2010 - >	Super Tele Zoom				
+AF-S	180-400/4 E TC FL ED VR	Japan	5+	built-in TC with 8/5 elements	200001	200573† - 201386†	>	1386	Jan 2018 - >	Super Tele Zoom				
+AF-S	200-500 E ED VR	China	5+		2000001	2006972 - 2064347	>	64347	Aug 2015 - >	Super Tele Zoom				
+AF-S	200-500 E ED VR	China	5+	for USA	6000001	6004420^ - 6028053	>	28053	Aug 2015 - >	Super Tele Zoom				
+F	20-600/9.5-10. AutoTele-Zoom	LMIJ PATS PEND	3-		170111	170124 - 170430			Oct 1961 -	Super Tele Zoom				
+F	20-600/9.5-10. AutoTele-Zoom	LMIJ	3-			170437 - 170696			-	Super Tele Zoom				
+F	20-600/9.5-10. AutoTele-Zoom	LMIJ	5-	square tripod foot from 1713xx?		170698 - 171370			-	Super Tele Zoom				
+F	200-600/9.5-10. AutoTele-Zoom	LMIJ	5-	in mm		171399 - 171695	171709	1599	- Sep 1969	Super Tele Zoom				
+F	200-600/9.5 Zoom Auto NKJ	LMIJ	5+	prototype	280001	280001		1	1970 -	Super Tele Zoom				
+F	200-600/9.5 Zoom Auto Nikon	LMIJ	5+	shorter, black rim, feet or m	290001	290025 - 291121		1121	Apr 1971 - Oct 1975	Super Tele Zoom				
+K	200-600/9.5 Zoom	LMIJ	5+	ft/m	300001	300008 - 300481	300490		Feb 1976 -	Super Tele Zoom				
+Ai	200-600/9.5 Zoom	MIJ	5+	fits Ai camera except FG	300491	300539 - 301851	301922	1922	-1977	Super Tele Zoom				
+Ai-S	200-600/9.5 Zoom	MIJ	5+	meter coupled	305001	305001 - 305516	305525	525	Apr 1982 - Aug 1983	Super Tele Zoom				
+K	180-600/8 Zoom*ED	LMIJ	5+	stop-down metering	174041	174054 - 174161	174166		Feb 1976 - 1977	Super Tele Zoom				
+Ai	180-600/8 Zoom*ED	LMIJ	5+	fits Ai camera except FG, F5, F6	174167	-	174180	140	1977 - Jan 1982	Super Tele Zoom				
+Ai-S	180-600/8 Zoom*ED	MIJ	5+	meter coupled	174701	174710 - 175213		513	Mar 1983 - 1998	Super Tele Zoom				
+Ai-S	180-600/8 Zoom*ED	MIJ	5+	meter coupled	170001?	170028 - 170056^		56	-	Super Tele Zoom				
+K	360-1200/11 Zoom*ED	MIJ	5+	stop-down metering	174031	174033 - 174078	174087		Feb 1976 - 1977	Super Tele Zoom				
+Ai	360-1200/11 Zoom*ED	MIJ	5+	fits Ai camera except FG, F5, F6	174088	-	174127	97	1977 - Jan 1981	Super Tele Zoom				
+Ai-S	360-1200/11 Zoom*ED	MIJ	5+	meter coupled	174701	174701 - 174779	174781	81	Mar 1982 - Mar 1985	Super Tele Zoom				
+Ai-P	1200-1700/5.6-8 P IF-ED	Japan	5+	biggest zoom	200001	200004 - 200017		17	Apr 1988 - 1998	Super Tele Zoom				
+														
+PC lenses top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	35/3.5 PC NKJ	PATS PEND,LMIJ	3-	feet or m, dash index	102105	102143 - 102763			Nov 1962 -	PC lenses	163254			
+F	35/3.5 PC NKJ	LMIJ	3-	feet or m, 2 dot index		102545 - 107004			-	PC lenses				
+F	35/3.5 PC NKJ	LMIJ	3-	feet/m, serial with dot from 1090xx		107561 - 110549.^			-	PC lenses				
+F	35/3.5 PC NKJ	LMIJ	5-			110248. - 111683.		9579	- Apr 1968	PC lenses				
+F	35/2.8 PC NKJ	LMIJ	5-	prototype		158011		1	-	PC lenses				
+F	35/2.8 PC NKJ	LMIJ	5-		851001	851005 - 861735		10735	Jan 1968 - 1972	PC lenses				
+F	35/2.8 PC Nikon	LMIJ	5-/+		870001	870085 - 886285	886420	16420	1972 - Dec 1975	PC lenses				
+K	35/2.8 PC	LMIJ	5+	grip ring low around base	900001	900113 - 904205			Oct 1975 - 1977	PC lenses				
+Ai	35/2.8 PC	LMIJ	5+	grip ring higher up, Ai style		904234 - 905279			1977 -	PC lenses				
+Ai	35/2.8 PC	MIJ	5+	fits Ai		905320 - 909635		9635	- Mar 1980	PC lenses				
+AiS*	35/2.8 PC	MIJ	3+	black shift knob	179091	179091 - 205761		26671	Jun 1980 - 1999	PC lenses				
+K	28/4 PC	LMIJ	5+	grip ring low around base	174041	174081 - 179812			Jun 1975 - 1977	PC lenses				
+Ai	28/4 PC	LMIJ	5+	grip ring higher up, Ai style		179399 - 180616			1977 -	PC lenses				
+Ai	28/4 PC	LMIJ	5+	fits Ai camera, some marked MIJ		180506 - 181389		7349	- Sep 1980	PC lenses				
+AiS*	28/3.5 PC	MIJ	5+	prototype, chrome shift knob		104741		1	1978 -	PC lenses				
+AiS*	28/3.5 PC	MIJ	3+	black shift knob	179121	179161 - 214178		35058	Oct 1980 - Dec 2005	PC lenses				
+AiS*	28/3.5 PC	MIJ	3+	prototype, black shift knob	100101	100102		2	-	PC lenses				
+PC-E	19/4 DPC-E	Japan	4+		200001	201232 - 203604†	>	3604	Oct 2016 - >	PC lenses				
+	24/3.5 D PC-E	Japan	3+		200001	200555 - 219478	>	19478	Jan 2008 - >	PC lenses				
+	45/2.8 D PC-E Micro	Japan	3+		200001	201010 - 208711	>	8711	Jul 2008 - >	PC lenses				
+	85/2.8 D PC Micro	Japan	3+		200001	200113 - 207307		7307	Jun 1999 - 2005	PC lenses				
+	85/2.8 D PC Micro	Japan	3+		300001	300002		2	2005 - 2006	PC lenses				
+	85/2.8 D PC Micro	Japan	3+		400001	400190 - 401695	>	1695	2007 - >	PC lenses				
+	85/2.8 D PC-E Micro	Japan	3+		200001	200557 - 207006	>	7006	Jul 2008 - >	PC lenses				
+														
+55-60mm Micro top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	55/4 UV Auto NKJ	LMIJ	0	prototype? looks like 55/3.5 micro		-		-	-	55-60mm Micro	1807409			
+F	5.50/3.5 Micro NKJ	PAT PEND, LMIJ	3-	preset, goes to 1:1, recessed filter	171501	171501 - 172570			Aug 1961 - 1962	55-60mm Micro				
+F	5.50/3.5 Micro NKJ	PAT PEND, LMIJ	3-	preset, goes to 1:1, raised filter		172323^ - 173777		2277	1962 - 1963	55-60mm Micro				
+F	55/3.5 Micro Auto NKJ	LMIJ	0	compensating, chrome, feet or m	188101	188128 - 209525		21425	Mar 1963 -	55-60mm Micro				
+F	55/3.5 Micro Auto NKJ	LMIJ	5-	comp, black, scalloped ap.ring	211001	211108 - 227335		16335	Dec 1966 -	55-60mm Micro				
+F	55/3.5 Micro Auto NKJ	LMIJ	5-	comp, Ai kit 63	238011	238087 - 268251			1968? -	55-60mm Micro				
+F	55/3.5 Micro Auto NKJ	LMIJ	5-	comp, focus in feet/m		269006 - 273083	273153	35143	-	55-60mm Micro				
+F	55/3.5 Micro-P Auto NKJ	LMIJ	5-	non-compensating, rubber focus	600001	600001 - 620377		20377	1969 - 1971	55-60mm Micro				
+F	55/3.5 Micro-P Auto Nikon	LMIJ	5-/+		630001?	630467 - 728469		98469	1971 - 1973	55-60mm Micro				
+C	55/3.5 Micro-P·C Auto	LMIJ	5+	multicoated	730001	730206 - 811319	811928	81928	1973 - Mar 1975	55-60mm Micro				
+K	55/3.5 Micro	LMIJ	5+	Ai kit 62, engraved PK-3	850001	850584 - 925206^		75206	Jan 1975 - 1977	55-60mm Micro				
+Ai	55/3.5 Micro	LMIJ	5+	engraved PK-3.13	940001	940075 - 948681			1977 -	55-60mm Micro				
+Ai	55/3.5 Micro	LMIJ	5+	engraved PK		949786 - 980534			-	55-60mm Micro				
+Ai	55/3.5 Micro	MIJ	5+			975449 - 992480			-	55-60mm Micro				
+Ai	55/3.5 Micro	MIJ	3+			991581 - 1106077^		166077	- Oct 1979	55-60mm Micro				
+Ai-S	55/2.8 Micro	MIJ	3+	CRC to 1:2, 52mm filter	179041	179421 - 600814		421774	Dec 1979 -	55-60mm Micro				
+Ai-S	55/2.8 Micro	MIJ	3+	no serial from 600xxx - 70xxxx?		701043 - 752406		51364	-2005	55-60mm Micro				
+Ai-S	55/2.8 Micro	MIJ	3+	2006 serial no	800001	800250 - 811470	>	11470	2006 - >	55-60mm Micro				
+Ai-S	55/2.8 Micro NASA	MIJ	3+	metal focus ring, feet only	1001	1001 - 1016		16	1985 - 1985	55-60mm Micro				
+AF	55/2.8 Micro	Japan	3+	CRC to 1:1, 62mm filter	200001	202772 - 240563		40563	Sep 1986 - Nov 1989	55-60mm Micro				
+AF	60/2.8 Micro	Japan	4+		200001	203419 - 253242		53242	Nov 1989 -	55-60mm Micro				
+AF	60/2.8 Micro	Japan	4+	7-digit serial nos	2300001	2301929 - 2504820		204820	- Oct 1993	55-60mm Micro				
+AF	60/2.8 D Micro	Japan	4+		3000001	3000080 - 3196519		196519	Oct 1993 -	55-60mm Micro				
+AF	60/2.8 D Micro	Japan	4+		4000001	4000635 - 4021269		21269	2005 - 2005	55-60mm Micro				
+AF	60/2.8 D Micro	Japan	4+	2006 serial no	5000001	5000179 - 5124409^		124409	2006 - 2008	55-60mm Micro				
+AF-S	60/2.8 G Micro IF-ED	Japan	4+		200001	200020 - 266289		66289	Jan 2008 -	55-60mm Micro				
+AF-S	60/2.8 G Micro IF-ED	Thailand	4+		2000001	2003439 - 2046649		46649	2010 - 2011	55-60mm Micro				
+AF-S	60/2.8 G Micro IF-ED	Japan	4+	after 2011 Thailand flood	2100001	2102682 - 2126083		26083	2012 - 2013	55-60mm Micro				
+AF-S	60/2.8 G Micro IF-ED	Thailand	4+		2250001?	2258061 - 2270471	>	20471	2013 - >	55-60mm Micro				
+AF-S	60/2.8 G Micro IF-ED	Thailand	4+	for USA	6100001	6100551 - 6105234	>	5234	2013 - >	55-60mm Micro				
+														
+105-135mm UV/Micro top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+M39	13.50/4 Q NKJ	-	0	triangle index, shiny chrome, needs BR-1, bellows	578001	578037 - 578189			Jun 1959 -	105-135mm UV/Micro	1045234			
+M39	13.50/4 Q NKJ	LMIJ	0	triangle index, dull chrome front ring		578302 - 578374			-	105-135mm UV/Micro				
+M39	13.50/4 Q NKJ	LMIJ	0	dot index, dull chrome front ring		578435 - 579054			-	105-135mm UV/Micro				
+M39	135/4 Q NKJ	LMIJ	0	in mm		579082 - 580610		2610	-1968	105-135mm UV/Micro				
+F	135/4 Q NKJ	LMIJ	5-	bellows, built-in tube with F mount	890001	890002 - 890838		838	Sep 1968 - 1969?	105-135mm UV/Micro				
+F	105/4 P NKJ	LMIJ	5-	bellows, name inside filter	910001	910034 - 913515		3515	Jan 1970 - 1972	105-135mm UV/Micro				
+F	105/4 P Nikon	LMIJ	5-	bellows, name on barrel	920001	920049 - 923401		3401	1972 - 1974	105-135mm UV/Micro				
+K	105/4 Micro	LMIJ	5+	engraved PN-1, Ai kit 64	174011	174223 - 186875	186955	12945	May 1975 - 1977	105-135mm UV/Micro				
+Ai	105/4 Micro	LMIJ	5+	engraved PN	186956	187176 - 193782			1977 -	105-135mm UV/Micro				
+Ai	105/4 Micro	MIJ	5+			193312 - 230509		43554	-1981	105-135mm UV/Micro				
+Ai	105/4 Micro NASA	MIJ	5+	metal focus ring, feet only	1001	1001 - 100x		0	-	105-135mm UV/Micro				
+Ai-S	105/4 Micro	MIJ	3+	DOF scale on chrome, focus lock	232001	232054 - 256812		24812	Sep 1981 - Mar 1983	105-135mm UV/Micro				
+Ai-S	105/4.5 UV-Micro	MIJ	3+	prototype, based on AiS 105/4 micro		252208		1	-	105-135mm UV/Micro				
+Ai-S	105/4.5 UV	MIJ	3+	no hood	200001	200001 - 203031		3031	Apr 1985 - 1999	105-135mm UV/Micro				
+Ai-S	105/4.5 UV	MIJ	3+	Tochigi UV and Rayfact	700001	700011 - 700318	>	318	Nov 2006 - >	105-135mm UV/Micro				
+Ai-S	105/2.8 Micro	MIJ	3+		182061	182165 - 269070		87010	Mar 1983 - Dec 2005	105-135mm UV/Micro				
+Ai-S	105/2.8 Micro	MIJ	3+	2006 serial no	300001	300024 - 306913	>	6913	Jan 2006 - >	105-135mm UV/Micro				
+AF	105/2.8 Micro	Japan	4+		200001	225098 - 336230		136230	Jun 1990 - Oct 1993	105-135mm UV/Micro				
+AF	105/2.8 D Micro	Japan	4+		3300001	3303531 - 3502976		202976	Oct 1993 -	105-135mm UV/Micro				
+AF	105/2.8 D Micro	Japan	4+	2006 serial no	4000001	4000805 - 4009440		9440	2005 - 2005	105-135mm UV/Micro				
+AF-S	105/2.8 G Micro IF-ED VR	Japan	4+		200001	200196 - 391790		191790	Feb 2006 - 2009	105-135mm UV/Micro				
+AF-S	105/2.8 G Micro IF-ED VR	China	4+		2000001	2000036 - 2268137†	>	268137	2010 - >	105-135mm UV/Micro				
+AF-S	105/2.8 G Micro IF-ED VR	China	4+	for USA	6000001	6000167 - 6047713	>	47713	2010 - >	105-135mm UV/Micro				
+														
+120-200mm Micro/Medical top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+F	200/5.6 Medical Auto NKJ	LMIJ	3-	4-pin terminal, same optics as Nikkor-Q 200	104011	104012 - 107735		3725	Dec 1962 -	120-200mm Micro/Medical	129769			
+F	200/5.6 Medical Auto NKJ	LMIJ	3-	serial no with dot to 110452.	110001.?	110049. - 113006	113011	3011	- Mar 1972	120-200mm Micro/Medical				
+F	200/5.6 Medical Auto Nikon	LMIJ	5-	3-pin terminal	120011	120046 - 121545		1535	Oct 1972 - Jun 1974	120-200mm Micro/Medical				
+C	200/5.6 Medical·C Auto	LMIJ	5+	3-pin terminal, multicoated	125011	125158 - 129794		4784	Jun 1974 -	120-200mm Micro/Medical				
+C	200/5.6 Medical·C Auto	LMIJ	5+		135011?	135192 - 137130			-	120-200mm Micro/Medical				
+C	200/5.6 Medical·C Auto	MIJ	5+			137770 - 140953		5943	- Dec 1979	120-200mm Micro/Medical				
+Ai*	120/4 Medical IF	MIJ	5+		180041	180111 - 203260		23220	Feb 1981 - 1998	120-200mm Micro/Medical				
+Ai	200/4 Micro IF	MIJ	5+	prototype		104724		1	-	120-200mm Micro/Medical				
+Ai	200/4 Micro IF	MIJ	5+	wide aperture ring, narrow tripod collar	178021	178036 - 198158		20138	Aug 1978 - Mar 1982	120-200mm Micro/Medical				
+Ai-S	200/4 Micro IF	MIJ	5+	narrow aperture ring, wide tripod collar	200001	200065 - 219979		19979	Feb 1982 - 2005	120-200mm Micro/Medical				
+AF	200/4 D IF-ED Micro	Japan	5+		200001	200038 - 212588		12588	Oct 1993 -	120-200mm Micro/Medical				
+AF	200/4 D IF-ED Micro	Japan	5+		300001	300154 - 300600		600	2005 - 2005	120-200mm Micro/Medical				
+AF	200/4 D IF-ED Micro	Japan	5+	2006 serial no	400001	400037 - 415724	>	15724	2006 - >	120-200mm Micro/Medical				
+AF	70-180/4.5-5.6 D ED Micro	Japan	4+		200001	200031 - 218521		18521	Sep 1997 - 2005	120-200mm Micro/Medical				
+														
+Teleconverters top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total			
+K	TC-1	MIJ	5+	200mm lens or shorter	175121	175216 - 179385		4265	May 1976 - 1977	Teleconverters	846887			
+Ai	TC-200	LMIJ	5+		176051	177044 - 180510			1977 -	Teleconverters				
+Ai	TC-200	MIJ	5+			182038 - 304976		128926	-1984	Teleconverters				
+Ai-S	TC-201	MIJ	5+		327001	328856 - 443528		116528	1984 - Dec 2005	Teleconverters				
+K	TC-2	LMIJ	5+	300mm lens or longer	175071	175233 - 176224		1154	May 1976 - 1977	Teleconverters				
+Ai	TC-300	LMIJ	5+		176041	176097 - 177068			1977 -	Teleconverters				
+Ai	TC-300	MIJ	5+			177169 - 186109		10069	-1984	Teleconverters				
+Ai-S	TC-301	MIJ	5+		201001	201316 - 226222		25222	1984 - Dec 2005	Teleconverters				
+Ai-S	TC-14A	MIJ	5+	200mm lens or shorter	182111	182138 - 209239		27129	Jan 1984 - Dec 2005	Teleconverters				
+Ai	TC-14	MIJ	5+	released with 600/4	176121	176769 - 187818		11698	Jun 1977 - 1984	Teleconverters				
+Ai-S	TC-14B	MIJ	5+	300mm lens or longer	191001	191140 - 221194		30194	1984 - Dec 2005	Teleconverters				
+Ai-S	TC-14C	MIJ	5+	supplied only with 300/2	283051	283077 - 283425	283491?	441	Jun 1983 - 1985?	Teleconverters				
+AF-I	TC-14E	Japan	5+	AF-I, AF-S telephotos only	200001	200097 - 217034		17034	Sep 1992 - Apr 2001	Teleconverters				
+AF-S	TC-14E II	Japan	5+	new cosmetics	200001	2008xx - 217504		17504	Jun 2001 -	Teleconverters				
+AF-S	TC-14E II	Japan	5+		300001	300820 - 302444		2444	2005 - 2005	Teleconverters				
+AF-S	TC-14E II	Japan	5+	2006 serial no	400001	400144 - 460147		60147	2006 - 2014	Teleconverters				
+AF-S	TC-14E III	Japan	5+		200001	201324 - 237689†	>	37689	May 2014 - >	Teleconverters				
+AF-S	TC-17E II	Japan	5+	AF-I, AF-S telephotos only	200001	200561 - 208289		8289	Jun 2004 - 2005	Teleconverters				
+AF-S	TC-17E II	Japan	5+	2006 serial no	300001	300273 - 372861	>	72861	2006 - >	Teleconverters				
+AF-I	TC-20E	Japan	5+	AF-I, AF-S telephotos only	200001	200396 - 219540		19540	Sep 1992 - Apr 2001	Teleconverters				
+AF-S	TC-20E II	Japan	5+	new cosmetics	200001	200328 - 218245		18245	Jun 2001 -	Teleconverters				
+AF-S	TC-20E II	Japan	5+		300001	300118 - 304117		4117	2005 - 2005	Teleconverters				
+AF-S	TC-20E II	Japan	5+	2006 serial no	400001	400101 - 427142		27142	2006 - Dec 2009	Teleconverters				
+AF-S	TC-20E III	Japan	5+		200001	201225 - 303386	>	103386	Dec 2009 - >	Teleconverters				
+AF-S	TC800-1.25E	Japan	4+	calibrated for matching AF-S 800/5.6	200001	200027 - 200182	>	182	Jan 2013 - >	Teleconverters				
+F3AF	TC-16	Japan	5+	limited AF for lenses f2 and faster	200001	200115 - 204147		4147	Apr 1983 - 1986	Teleconverters				
+AF	TC-16A	Japan	5+	limited AF for lenses f3.5 and faster	200001	201357 - 298534		98534	Sep 1986 -	Teleconverters				
+														
+DX Digital top														
+Type	Lens	Country	Scr	Notes	Start No	Confirmed	End No	Qty	Date	Lens-TYPE	Qty Total	DX Qty Total		
+AF	10.5/2.8 G ED Fisheye	Japan	3+	full frame fisheye	200001	200727 - 206339		6339	Jul 2003 -	10.5/2.8	121419	50600341		
+AF	10.5/2.8 G ED Fisheye	Japan	3+		300001	302015 - 415080	>	115080	2004 - >	10.5/2.8				
+AF-S	35/1.8 G	China	4+		2100001	2102538 - 3469141^	>	1369141	Mar 2009 - >	35/1.8 G	1867437			
+AF-S	35/1.8 G	China	4+	for USA	6000001	6000162 - 6498296	>	498296	Mar 2009 - >	35/1.8 G				
+AF-S	40/2.8 G Micro	China	4+		2000001	2003185 - 2143484^	>	143484	Jul 2011 - >	40/2.8 G	189239			
+AF-S	40/2.8 G Micro	China	4+	for USA	6000001	6000492 - 6045755	>	45755	Jul 2011 - >	40/2.8 G				
+AF-S	85/3.5 G Micro IF-ED VR	China	4+		2000001	2007146 - 2062973	>	62973	Oct 2009 - >	85/3.5 G Micro	74947			
+AF-S	85/3.5 G Micro IF-ED VR	China	4+	for USA	6000001	6001014 - 6011974	>	11974	Oct 2009 - >	85/3.5 G Micro				
+AF-P	10-20/4.5-5.6 G IF VR	Thailand	3+		200001	202193 - 259309†	>	59309	May 2017 - >	10-20/4.5-5.6 G	59309			
+AF-S	10-24/3.5-4.5 G IF-ED	China	4+		2000001	2001832 - 2102264	>	102264	Apr 2009 - >	10-24/3.5-4.5 G	132138			
+AF-S	10-24/3.5-4.5 G IF-ED	China	4+	for USA	6000001	6000492 - 6029874	>	29874	Apr 2009 - >	10-24/3.5-4.5 G				
+AF-S	12-24/4 G IF-ED	Japan	4+	485g	200001	200641 - 265133		65133	Mar 2003 - Dec 2005	12-24/4 G	152240			
+AF-S	12-24/4 G IF-ED	Japan	4+	465g, 2006 series	300001	300954 - 387107	>	87107	Jan 2006 - >	12-24/4 G				
+AF-S	17-55/2.8 G IF-ED	Japan	4+		200001	200152 - 250673		50673	Jul 2003 - 2005	17-55/2.8 G	213340			
+AF-S	17-55/2.8 G IF-ED	Japan	4+	2006 serial no	300001	301365 - 462667	>	162667	2006 - >	17-55/2.8 G				
+AF-S	18-55/3.5-5.6 G ED	Thailand	3+	black or silver	2000001	2004724 - 2878019		878019	Apr 2005 - Nov 2006	18-55/3.5-5.6 G	878019		各种型号的18-55 	24633828
+AF-S	18-55/3.5-5.6 G ED II	Thailand	3+	silver ring, black or silver	2000001	2037833 - 5500363	>	3500363	Nov 2006 - >	18-55/3.5-5.6 G ED II	4718298			
+AF-S	18-55/3.5-5.6 G ED II	Thailand	3+	for USA	6000001	6001314 - 7217935	>	1217935	Nov 2006 - >	18-55/3.5-5.6 G ED II				
+AF-S	18-55/3.5-5.6 G VR	Thailand	3+		12000001	12005571 - 15763006		3763006	Nov 2007 - 2011	18-55/3.5-5.6 G VR	13218416			
+AF-S	18-55/3.5-5.6 G VR	Thailand	3+	for USA	16000001	16000140 - 20427699	>	4427699	Nov 2007 - >	18-55/3.5-5.6 G VR				
+AF-S	18-55/3.5-5.6 G VR	Thailand	3+	after 2011 Thailand flood	50000001	50267914 - 55027711	>	5027711	2012 - >	18-55/3.5-5.6 G VR				
+AF-S	18-55/3.5-5.6 G VR II	Thailand	3+	collapsible	20000001	20021045 - 24319932^	>	4319932	Jan 2014 - >	18-55/3.5-5.6 G VR II	4319932			
+AF-P	18-55/3.5-5.6 G VR	Thailand	3+	collapsible	20000001	20035220 - 21499163^	>	1499163	Jan 2016 - >	18-55/3.5-5.6 G VR	1499163			
+AF-S	16-85/3.5-5.6 G IF-ED VR	Thailand	4+		22000001	22000772 - 22329743	>	329743	Jan 2008 - >	16-85/3.5-5.6 G IF-ED VR	329743			
+AF-S	16-85/3.5-5.6 G IF-ED VR	Thailand	4+	for USA	26000001	26000414 - 26085264	>	85264	Jan 2008 - >	DX Digital				
+AF-S	16-80/2.8-4 E IF-ED VR	Thailand	4+		200001	205211 - 244933	>	44933	Jul 2015 - >	DX Digital				
+AF-S	18-70/3.5-4.5 G IF-ED	Thailand	4+		2000001	2005497 - 4260970		2260970	Jan 2004 -	DX Digital				
+AF-S	18-105/3.5-5.6 G IF-ED VR	Thailand	3+	plastic mount	32000001	32002058 - 35962711		3962711	Aug 2008 - 2013	DX Digital			各种型号的18-105	5955178
+AF-S	18-105/3.5-5.6 G IF-ED VR	Thailand	3+	for USA	36000001	36000253 - 36674836	>	674836	Aug 2008 - >	DX Digital				
+AF-S	18-105/3.5-5.6 G IF-ED VR	Thailand	3+	non US series cont...	38000001	38030102 - 39089950		1089950	2013 - 2014	DX Digital				
+AF-S	18-105/3.5-5.6 G IF-ED VR	China	3+		42000001	42008041 - 42227681	>	227681	2014 - >	DX Digital				
+AF-S	18-135/3.5-5.6 G IF-ED	Thailand	3+	plastic mount	2000001	2003943 - 3156793		1156793	Aug 2006 - 2008	DX Digital				
+AF-S	18-140/3.5-5.6 G IF-ED VR	Thailand	4+		20000001	20030414 - 20448847		448847	Aug 2013 -	DX Digital				
+AF-S	18-140/3.5-5.6 G IF-ED VR	Thailand	4+	for USA	60000001	60000172 - 60182422		182422	Aug 2013 -	DX Digital				
+AF-S	18-140/3.5-5.6 G IF-ED VR	China	4+		30000001	30017015 - 30652729†	>	652729	2016 - >	DX Digital				
+AF-S	18-200/3.5-5.6 G IF-ED VR	Japan	4+	red "VR"	2000001	2000403 - 2045480		45480	Nov 2005 -	DX Digital				
+AF-S	18-200/3.5-5.6 G IF-ED VR	Thailand	4+		2100001	2101562 - 2140368		40368	Feb 2006 -	DX Digital				
+AF-S	18-200/3.5-5.6 G IF-ED VR	Thailand	4+		2500001	2500509 - 3511940		1011940	Jun 2006 - Jul 2009	DX Digital				
+AF-S	18-200/3.5-5.6 G IF-ED VR II	Thailand	4+	zoom lock, gold "VR"	42000001	42023759 - 42528501^	>	528501	Jul 2009 - >	DX Digital				
+AF-S	18-200/3.5-5.6 G IF-ED VR II	Thailand	4+	for USA	46000001	46002467 - 46201772	>	201772	Jul 2009 - >	DX Digital				
+AF-S	18-300/3.5-5.6 G IF-ED VR	Thailand	4+		72000001	72003447 - 72114611	>	114611	Jun 2012 - >	DX Digital				
+AF-S	18-300/3.5-5.6 G IF-ED VR	Thailand	4+	for USA	76000001	76014621 - 76036217	>	36217	Jun 2012 - >	DX Digital				
+AF-S	18-300/3.5-6.3 G IF-ED VR	China	4+		2000001	2002356 - 2125922	>	125922	Apr 2014 - >	DX Digital				
+AF-S	18-300/3.5-6.3 G IF-ED VR	China	4+	for USA	6000001	6001382 - 6028004	>	28004	Apr 2014 - >	DX Digital				
+AF-S	55-200/4-5.6 G ED	Japan	3+	black	2000001	2015074 - 2033202			Apr 2005 -	DX Digital				
+AF-S	55-200/4-5.6 G ED	China	3+	black		2054329 - 3173812	>	1173812	Apr 2005 - >	DX Digital				
+AF-S	55-200/4-5.6 G ED	China	3+	silver	5000001	5007671 - 5018894	>	18894	Apr 2005 - >	DX Digital				
+AF-S	55-200/4-5.6 G ED	China	3+	black for USA	6000001	6004210 - 6566076	>	566076	Apr 2005 - >	DX Digital				
+AF-S	55-200/4-5.6 G IF-ED VR	China	3+	plastic mount	200001	200265 - 2165216		1965216	Mar 2007 - 2011	DX Digital				
+AF-S	55-200/4-5.6 G IF-ED VR	China	3+		3200001?	3213567 - 4580807	>	1380807	2011 - >	DX Digital				
+AF-S	55-200/4-5.6 G IF-ED VR	China	3+	for USA	6000001	6007518 - 6956495	>	956495	2011 - >	DX Digital				
+AF-S	55-200/4-5.6 G IF-ED VR II	Thailand	3+	collapsible	20000001	20005854 - 20775406	>	775406	Jan 2015 - >	DX Digital				
+AF-S	55-300/4.5-5.6 G ED VR	China	4+		2000001	2009353 - 3365316	>	1365316	Aug 2010 - >	DX Digital				
+AF-S	55-300/4.5-5.6 G ED VR	China	4+	for USA	6000001	6002370 - 6830731	>	830731	Aug 2010 - >	DX Digital				
+AF-P	70-300/4.5-6.3 IF-ED	Thailand	3+		20000001	20005899 - 20583605^	>	583605	Aug 2016 - >	DX Digital				
+AF-P	70-300/4.5-6.3 IF-ED VR	Thailand	3+		20000001	20003353^ - 20290392^	>	290392	Aug 2016 - >	DX Digital				
+														
